@@ -1,6 +1,6 @@
 window.DONNEES = {
  "genere_le": "2026-07-18",
- "total_fiches": 181,
+ "total_fiches": 182,
  "textes": {
   "titre": "Deux quinquennats sous Macron",
   "chapo": "Il est difficile de se souvenir des péripéties les plus marquantes de ses deux quinquennats de Macron. Cette page présente une chronologie, non exhaustive, de ses décisions, des actions de ses gouvernement - et de leurs conséquences. \nLes descriptions factuelles et sourcées sont suivies de commentaires critiques; le lecteur peut toutefois facilement séparer les unes et les autres.",
@@ -10,14 +10,14 @@ window.DONNEES = {
   {
    "annee": 2017,
    "note": "Du personnel de droite et les premières décisions antisociales et antimigrants.",
-   "total": 22,
+   "total": 23,
    "densite": [
     0,
     0,
     0,
     0,
     4,
-    6,
+    7,
     1,
     2,
     2,
@@ -132,6 +132,34 @@ window.DONNEES = {
     },
     {
      "n": 6,
+     "titre": "« Make our planet great again »",
+     "date_libelle": "01/06/2017",
+     "debut": "2017-06-01",
+     "fin": "2017-06-01",
+     "precision": "jour",
+     "transverse": false,
+     "mois": 6,
+     "factuel": "Quelques heures après l'annonce par Donald Trump du retrait des États-Unis de l'accord de Paris, Macron s'exprime depuis l'Élysée, le soir du 1er juin. Il juge que le président américain « commet là une erreur pour les intérêts de son pays et de son peuple et une faute pour l'avenir de notre planète », affirme que la France « ne renégociera pas un accord moins ambitieux » et lance : « Sur le climat, il n'y a pas de plan B. Car il n'y a pas de planète B. » Il appelle les scientifiques, ingénieurs et entrepreneurs déçus par la décision américaine à venir travailler en France, où ils trouveront « une seconde patrie ».\n\nIl enchaîne alors — fait sans précédent pour un chef de l'État français s'exprimant depuis l'Élysée — sur une déclaration **en anglais**, qu'il conclut en détournant le slogan de campagne de Trump : *« Make our planet great again. »* La formule fait le tour du monde en quelques heures.",
+     "critique": "Sommet de la communication présidentielle : une formule en anglais, virale, qui installe Macron en champion mondial du climat face à Trump. C'est à cette promesse que sera ensuite mesuré chaque reniement.",
+     "sources": [
+      {
+       "nom": "Élysée — Déclaration suite à la sortie des États-Unis de l'accord de Paris, 1er juin 2017 (transcription intégrale)",
+       "lien": "https://www.elysee.fr/emmanuel-macron/2017/06/01/declaration-suite-a-la-sortie-des-etats-unis-de-laccord-de-paris"
+      },
+      {
+       "nom": "Élysée — Déclaration en anglais (« Make our planet great again »)",
+       "lien": "https://www.elysee.fr/emmanuel-macron/2017/06/02/declaration-suite-au-retrait-des-etats-unis-de-laccord-de-paris-en-anglais"
+      },
+      {
+       "nom": "Ministère de l'Enseignement supérieur et de la Recherche — programme Make Our Planet Great Again",
+       "lien": "https://www.enseignementsup-recherche.gouv.fr/fr/make-our-planet-great-again-49673"
+      }
+     ],
+     "statut": "Vérifié",
+     "a_verifier": false
+    },
+    {
+     "n": 7,
      "titre": "Législatives : majorité massive, participation minimale",
      "date_libelle": "11 & 18/06/2017",
      "debut": "2017-06-11",
@@ -151,7 +179,7 @@ window.DONNEES = {
      "a_verifier": false
     },
     {
-     "n": 7,
+     "n": 8,
      "titre": "Réfugiés : le double discours Macron / Collomb",
      "date_libelle": "23/06/2017",
      "debut": "2017-06-23",
@@ -175,7 +203,7 @@ window.DONNEES = {
      "a_verifier": false
     },
     {
-     "n": 8,
+     "n": 9,
      "titre": "Néonicotinoïdes : tentation du recul, puis maintien de l'interdiction",
      "date_libelle": "21-26/06/2017",
      "debut": "2017-06-21",
@@ -199,7 +227,7 @@ window.DONNEES = {
      "a_verifier": false
     },
     {
-     "n": 9,
+     "n": 10,
      "titre": "Lancement de la réforme du Code du travail par ordonnances",
      "date_libelle": "29/06/2017",
      "debut": "2017-06-29",
@@ -219,7 +247,7 @@ window.DONNEES = {
      "a_verifier": false
     },
     {
-     "n": 10,
+     "n": 11,
      "titre": "Pas d'interview du 14 Juillet : une « pensée complexe »",
      "date_libelle": "30/06/2017",
      "debut": "2017-06-30",
@@ -239,7 +267,7 @@ window.DONNEES = {
      "a_verifier": false
     },
     {
-     "n": 11,
+     "n": 12,
      "titre": "Donald Trump invité d'honneur du défilé du 14 Juillet",
      "date_libelle": "14/07/2017",
      "debut": "2017-07-14",
@@ -259,7 +287,7 @@ window.DONNEES = {
      "a_verifier": false
     },
     {
-     "n": 12,
+     "n": 13,
      "titre": "Une brochette de ministres à l'université d'été du Medef",
      "date_libelle": "29-30/08/2017",
      "debut": "2017-08-29",
@@ -279,7 +307,7 @@ window.DONNEES = {
      "a_verifier": false
     },
     {
-     "n": 13,
+     "n": 14,
      "titre": "Ordonnances travail : le plafonnement des indemnités prud'homales",
      "date_libelle": "31/08/2017",
      "debut": "2017-08-31",
@@ -303,7 +331,7 @@ window.DONNEES = {
      "a_verifier": false
     },
     {
-     "n": 14,
+     "n": 15,
      "titre": "« Je ne céderai rien aux fainéants »",
      "date_libelle": "08/09/2017",
      "debut": "2017-09-08",
@@ -323,7 +351,7 @@ window.DONNEES = {
      "a_verifier": false
     },
     {
-     "n": 15,
+     "n": 16,
      "titre": "Rentrée : des milliers d'enfants handicapés sans AVS",
      "date_libelle": "12/09/2017",
      "debut": "2017-09-12",
@@ -343,7 +371,7 @@ window.DONNEES = {
      "a_verifier": false
     },
     {
-     "n": 16,
+     "n": 17,
      "titre": "La baisse de 5 euros des aides personnelles au logement",
      "date_libelle": "01/10/2017",
      "debut": "2017-10-01",
@@ -367,7 +395,7 @@ window.DONNEES = {
      "a_verifier": false
     },
     {
-     "n": 17,
+     "n": 18,
      "titre": "Suppression de l'ISF, remplacé par l'IFI",
      "date_libelle": "20/10/2017 → 30/12/2017",
      "debut": "2017-10-20",
@@ -391,7 +419,7 @@ window.DONNEES = {
      "a_verifier": false
     },
     {
-     "n": 18,
+     "n": 19,
      "titre": "La « circulaire Collomb » : recenser les migrants dans l'hébergement d'urgence",
      "date_libelle": "12/12/2017",
      "debut": "2017-12-12",
@@ -415,7 +443,7 @@ window.DONNEES = {
      "a_verifier": false
     },
     {
-     "n": 19,
+     "n": 20,
      "titre": "« Un abandon sans précédent des valeurs humanistes de la République »",
      "date_libelle": "décembre 2017",
      "debut": "2017-12-01",
@@ -424,7 +452,7 @@ window.DONNEES = {
      "transverse": false,
      "mois": 12,
      "factuel": "Alors que le gouvernement prépare pour avril 2018 une loi « immigration-asile » (délai d'instruction des demandes ramené de quatorze à six mois, allongement de la durée de rétention, +400 places en CRA), Véronique Fayet (présidente du Secours catholique) et Jean-Michel Hitter (président de la Fédération de l'Entraide protestante) adressent à Emmanuel Macron une lettre dénonçant « un abandon sans précédent des valeurs et traditions humanistes de la République ». Ils reprochent au gouvernement d'avoir avancé aussi loin sur le contenu d'une réforme aussi sensible « sans jamais prendre la peine d'ouvrir une véritable concertation » avec la société civile.",
-     "critique": "Contraste frappant avec les discours humanistes de Macron à l'ONU quelques mois plus tôt. La lettre intervient dans la foulée immédiate de la circulaire Collomb (fiche 20) : c'est la conjonction des deux qui fait basculer une partie du monde associatif chrétien dans l'opposition frontale.",
+     "critique": "Contraste frappant avec les discours humanistes de Macron à l'ONU quelques mois plus tôt. La lettre intervient dans la foulée immédiate de la circulaire Collomb (fiche 19) : c'est la conjonction des deux qui fait basculer une partie du monde associatif chrétien dans l'opposition frontale.",
      "sources": [
       {
        "nom": "Aleteia — « Le Secours catholique s'inquiète de la grande loi sur l'immigration et l'asile » (21/12/2017)",
@@ -435,7 +463,7 @@ window.DONNEES = {
      "a_verifier": false
     },
     {
-     "n": 20,
+     "n": 21,
      "titre": "L'entretien complaisant avec Laurent Delahousse",
      "date_libelle": "17/12/2017",
      "debut": "2017-12-17",
@@ -455,7 +483,7 @@ window.DONNEES = {
      "a_verifier": false
     },
     {
-     "n": 21,
+     "n": 22,
      "titre": "Le prélèvement forfaitaire unique : le capital plafonné à 30 %",
      "date_libelle": "21-31/12/2017",
      "debut": "2017-12-21",
@@ -475,7 +503,7 @@ window.DONNEES = {
      "a_verifier": false
     },
     {
-     "n": 22,
+     "n": 23,
      "titre": "L'impôt sur les sociétés ramené de 33,3 % à 25 %",
      "date_libelle": "30/12/2017",
      "debut": "2017-12-30",
@@ -588,7 +616,7 @@ window.DONNEES = {
      "precision": "jour",
      "transverse": false,
      "mois": 3,
-     "factuel": "Le Nouvel Observateur relaie le constat d'associations (dont La Cimade) : « on n'a jamais vu autant d'enfants en centre de rétention ». Le nombre de mineurs enfermés avec leurs familles au titre de la politique migratoire atteint un niveau record : en France métropolitaine, il a été multiplié par 7,6 entre 2013 et 2017, passant de 40 à 305 enfants placés en rétention. La tendance s'aggrave début 2018 — au seul centre du Mesnil-Amelot, 16 familles et 26 enfants sont concernés dès les deux premiers mois de l'année, dix enfants y étant retenus le soir du 28 février dans des chambres parfois à 10 °C.",
+     "factuel": "Le Nouvel Observateur relaie le constat d'associations (dont La Cimade) : « on n'a jamais vu autant d'enfants en centre de rétention ». Le nombre de mineurs enfermés avec leurs familles au titre de la politique migratoire atteint un niveau record : en France métropolitaine, il a été multiplié par 7,6 entre 2013 et 2017, passant de 40 à 305 enfants placés en rétention.",
      "critique": "Contradiction directe avec les engagements de la France sur les droits de l'enfant, dénoncée par les associations. La France a d'ailleurs été condamnée à plusieurs reprises par la Cour européenne des droits de l'homme pour ces placements.",
      "sources": [
       {
@@ -617,7 +645,7 @@ window.DONNEES = {
      "transverse": false,
      "mois": 1,
      "factuel": "Lors de ses vœux à la presse (3 janvier 2018), Macron annonce une loi contre les « fausses informations » en période électorale. Adoptée le 20 novembre, elle devient la loi du 22 décembre 2018 relative à la lutte contre la manipulation de l'information.",
-     "critique": "Projet critiqué dès l'annonce comme une menace pour la liberté d'expression et un pouvoir donné au juge sur l'information (« très dangereux »).",
+     "critique": "Projet critiqué dès l'annonce comme une menace pour la liberté d'expression et un pouvoir donné au juge sur l'information.",
      "sources": [
       {
        "nom": "Légifrance (loi n°2018-1202 du 22/12/2018)",
@@ -657,7 +685,7 @@ window.DONNEES = {
      "transverse": false,
      "mois": 4,
      "factuel": "En visite au CHU de Rouen, Macron a un échange tendu avec deux soignantes. L'une déplore les fermetures de lits et de services faute de personnel : « On a besoin de moyens […] On a besoin de personnel. » Réponse du président : « Faites-moi confiance, il y aura des moyens, mais mettre des moyens sans faire les choses pour moderniser, accompagner… ce n'est pas aider les gens. Parce qu'à la fin, les moyens, c'est vous qui les payez aussi, il n'y a pas d'argent magique. » L'échange se termine par un accrochage sur une poignée de main refusée. Les soignantes diront ensuite s'être senties « humiliées ».",
-     "critique": "Devenue une formule emblématique du mépris social et de l'austérité opposée aux services publics, mise en regard des cadeaux fiscaux aux plus aisés. La séquence prend tout son sens rapprochée de la fiche 8 : dix jours plus tard, Macron affirme qu'il n'y aura « pas d'économies sur l'hôpital » alors que 960 M€ d'économies sont demandées aux établissements publics.",
+     "critique": "Devenue une formule emblématique du mépris social et de l'austérité opposée aux services publics, mise en regard des cadeaux fiscaux aux plus aisés. Dix jours plus tard, Macron affirme qu'il n'y aura « pas d'économies sur l'hôpital » alors que 960 M€ d'économies sont demandées aux établissements publics.",
      "sources": [
       {
        "nom": "Infirmiers.com (09/04/2018, avec la vidéo France 3 Normandie)",
@@ -677,7 +705,7 @@ window.DONNEES = {
      "transverse": false,
      "mois": 4,
      "factuel": "Trois mois après l'abandon du projet d'aéroport (17 janvier), l'État lance l'évacuation de la ZAD : l'opération débute à 3 h du matin le 9 avril et mobilise au total 2 500 personnels, 25 escadrons de gendarmerie mobile, des véhicules blindés (VBRG), hélicoptères et drones. Du 9 au 12 avril, 29 squats sont expulsés et déconstruits ; une seconde vague les 17-18 mai en traite 10 de plus. Le retour d'expérience officiel de la gendarmerie chiffre l'engagement : 211 barricades réduites, 19 000 grenades lacrymogènes tirées (dont 4 000 à effet déflagrant) et 400 balles de défense. Bilan humain officiel : 106 gendarmes blessés, 330 blessés « autodéclarés » côté opposants, un blessé grave. Sur 97 lieux de vie recensés, 39 sont évacués et 68 personnes expulsées.",
-     "critique": "Perçue comme un pic de violence d'État contre une expérience alternative : les zadistes et leurs soutiens y voient la plus vaste opération de police depuis 1968, tandis que le RETEX de la gendarmerie revendique au contraire un « emploi gradué de la force ». Le volume de munitions tiré — 19 000 grenades sur une zone de 12,4 km² — donne la mesure de l'affrontement, quelle que soit la lecture qu'on en fait. La ZAD avait reçu le soutien public de Naomi Klein, qui a préfacé en 2018 l'ouvrage collectif « Éloge des mauvaises herbes : ce que nous devons à la ZAD ».",
+     "critique": "Perçue comme un pic de violence d'État contre une expérience alternative : les zadistes et leurs soutiens y voient la plus vaste opération de police depuis 1968, tandis que le RETEX de la gendarmerie revendique au contraire un « emploi gradué de la force ».",
      "sources": [
       {
        "nom": "Gendarmerie nationale — RETEX officiel",
@@ -744,8 +772,8 @@ window.DONNEES = {
      "precision": "jour",
      "transverse": false,
      "mois": 7,
-     "factuel": "Au lendemain du titre mondial, avec deux heures de retard, les 23 Bleus ne saluent leurs supporters qu'une dizaine de minutes depuis leur bus à impériale sur des Champs-Élysées bondés (≈300 000 personnes), avant de filer à la réception de l'Élysée. De nombreux supporters expriment leur déception (« j'ai attendu trois heures pour ne rien voir »). Une polémique naît sur l'origine de ce passage éclair : **l'Élysée dément formellement** avoir demandé d'accélérer la descente, parlant d'une « vaine polémique ».",
-     "critique": "Symbole, pour ses détracteurs, de la récupération politique d'un événement sportif et d'une communication présidentielle envahissante. La responsabilité de l'écourtement reste toutefois contestée : elle n'a jamais été établie, l'Élysée l'ayant démentie — la fiche a été reformulée pour ne pas présenter comme un fait ce qui demeure une accusation.",
+     "factuel": "Au lendemain du titre mondial, avec deux heures de retard, les 23 Bleus ne saluent leurs supporters qu'une dizaine de minutes depuis leur bus à impériale sur des Champs-Élysées bondés (≈300 000 personnes), avant de filer à la réception de l'Élysée. De nombreux supporters expriment leur déception (« j'ai attendu trois heures pour ne rien voir »). Une polémique naît sur l'origine de ce passage éclair : l'Élysée dément formellement avoir demandé d'accélérer la descente, parlant d'une « vaine polémique ».",
+     "critique": "Symbole, pour ses détracteurs, de la récupération politique d'un événement sportif et d'une communication présidentielle envahissante. La présence de Benalla à bord du bus des Bleus donne de la crédibilité à une étroite communicatiopn avec l'Elysée.",
      "sources": [
       {
        "nom": "franceinfo",
@@ -769,7 +797,7 @@ window.DONNEES = {
      "transverse": false,
      "mois": 7,
      "factuel": "Le Monde révèle qu'Alexandre Benalla, chargé de mission à l'Élysée, a molesté des manifestants place de la Contrescarpe le 1er mai 2018, coiffé d'un casque de police et portant un brassard « police », en simple observateur. Le parquet ouvre le 19 juillet une enquête pour violences, usurpation de fonctions et de signes réservés à l'autorité publique.",
-     "critique": "Point de départ du principal scandale d'État du quinquennat : un proche du président se comportant en policier, couvert par l'Élysée pendant deux mois et demi.",
+     "critique": "Point de départ d'un des principaux scandales d'État du quinquennat : un proche du président se comportant en policier, couvert par l'Élysée pendant deux mois et demi.",
      "sources": [
       {
        "nom": "Europe 1",
@@ -789,7 +817,7 @@ window.DONNEES = {
      "transverse": false,
      "mois": 7,
      "factuel": "Rompant le silence devant les députés LREM à la Maison de l'Amérique latine, Macron se déclare « seul responsable » et lance : « S'ils veulent un responsable, il est devant vous. Qu'ils viennent me chercher. » Aucun haut responsable (directeur de cabinet, préfet de police, ministre de l'Intérieur) ne démissionne ; seuls quelques fonctionnaires sont suspendus.",
-     "critique": "Posture de défi jugée « pas digne d'un président » jusque dans son propre camp ; sentiment d'impunité au sommet de l'État. Déclenche le hashtag #AllonsChercherMacron.",
+     "critique": "Posture de défi jugée « pas digne d'un président » jusque dans son propre camp ; sentiment d'impunité au sommet de l'État. Déclarations bravaches n'ayant aucune espèce de conséquence concrète.",
      "sources": [
       {
        "nom": "franceinfo",
@@ -888,7 +916,7 @@ window.DONNEES = {
      "precision": "jour",
      "transverse": false,
      "mois": 11,
-     "factuel": "Premier acte du mouvement des Gilets jaunes contre la hausse de la fiscalité des carburants (TICPE). Selon le ministère de l'Intérieur : un pic de 287 710 manifestants à 17 h et environ 2 000 rassemblements ou points de blocage sur tout le territoire. Bilan du jour : une morte, 409 blessés, 117 interpellations dont 73 gardes à vue. Des élus de droite comme de gauche contestent ces chiffres, jugés volontairement sous-estimés.",
+     "factuel": "Premier acte du mouvement des Gilets jaunes contre la hausse de la fiscalité des carburants (TICPE). Selon le ministère de l'Intérieur : un pic de 287 710 manifestants à 17 h et environ 2 000 rassemblements ou points de blocage sur tout le territoire.",
      "critique": "Révolte fiscale et sociale, contrecoup direct d'une fiscalité perçue comme favorable au capital et pénalisante pour les ménages modestes et périurbains.",
      "sources": [
       {
@@ -908,7 +936,7 @@ window.DONNEES = {
      "precision": "mois",
      "transverse": false,
      "mois": 12,
-     "factuel": "Le 16 décembre, Amnesty International publie une enquête dénonçant un « usage excessif de la force » : tirs de flashball dans la foule, grenades de désencerclement « qui ne devraient jamais être utilisées dans des opérations de maintien de l'ordre », journalistes et secouristes touchés — Thomas Morel-Fort, casque « presse » sur la tête, souffre de fractures multiples à la main. Selon les chiffres officiels que cite l'organisation, 1 407 manifestants ont été blessés dont 46 grièvement depuis le 17 novembre, et 717 policiers, gendarmes et pompiers ont subi des violences. Amnesty documente aussi les confiscations d'équipements de protection aux barrages, les 1 082 interpellations parisiennes du 8 décembre dont 100 mineurs, et l'arrestation de 163 lycéens à Mantes-la-Jolie, dont certains maintenus à genoux jusqu'à quatre heures. C'est dans un second temps, début 2019, que l'organisation demandera formellement la suspension du LBD40 et l'interdiction des grenades explosives.",
+     "factuel": "Le 16 décembre, Amnesty International publie une enquête dénonçant un « usage excessif de la force » : tirs de flashball dans la foule, grenades de désencerclement « qui ne devraient jamais être utilisées dans des opérations de maintien de l'ordre », journalistes et secouristes touchés. Selon les chiffres officiels que cite l'organisation, 1 407 manifestants ont été blessés dont 46 grièvement depuis le 17 novembre, et 717 policiers, gendarmes et pompiers ont subi des violences. Amnesty documente aussi les confiscations d'équipements de protection aux barrages, les 1 082 interpellations parisiennes du 8 décembre dont 100 mineurs, et l'arrestation de 163 lycéens à Mantes-la-Jolie, dont certains maintenus à genoux jusqu'à quatre heures. C'est dans un second temps, début 2019, que l'organisation demandera formellement la suspension du LBD40 et l'interdiction des grenades explosives.",
      "critique": "Première grande alerte sur les violences policières du maintien de l'ordre « à la française », qui structurera toute l'année 2019 (éborgnés, mains arrachées).",
      "sources": [
       {
@@ -933,7 +961,7 @@ window.DONNEES = {
      "transverse": false,
      "mois": 12,
      "factuel": "Face à la crise, Macron décrète un « état d'urgence économique et social » et annonce : une hausse de 100 € au niveau du SMIC passant par la revalorisation de la prime d'activité, la défiscalisation des heures supplémentaires, l'annulation de la hausse de CSG pour les retraités gagnant moins de 2 000 €/mois, et une prime de fin d'année défiscalisée. Coût estimé par le gouvernement : entre 8 et 10 milliards d'euros.",
-     "critique": "Concessions jugées tardives et insuffisantes — « un tournant social ? Pas vraiment » : des dépenses lâchées sans remise en cause du cap fiscal (ISF, capital).",
+     "critique": "Concessions jugées tardives et insuffisantes.",
      "sources": [
       {
        "nom": "France 24",
@@ -952,8 +980,8 @@ window.DONNEES = {
      "precision": "jour",
      "transverse": false,
      "mois": 12,
-     "factuel": "L'article 68 de la loi de financement de la sécurité sociale pour 2019 (loi n° 2018-1203 du 22 décembre 2018) limite la revalorisation de l'ensemble des pensions de retraite et de plusieurs prestations sociales à 0,3 % pour 2019 **et 2020**, alors que l'inflation constatée en 2018 s'élève à 1,8 % — soit une perte de pouvoir d'achat pour tous les retraités. Le 21 décembre 2018, le Conseil constitutionnel (décision n° 2018-776 DC) censure les mots « et 2020 » : cette année n'est pas couverte par la loi de financement pour 2019 et la disposition n'a pas de caractère permanent au sens de l'article L.O. 111-3 du code de la sécurité sociale — c'est un « cavalier social ». Le gouvernement reviendra à la charge dans la LFSS 2020, cette fois validée, mais en maintenant l'indexation sur l'inflation pour les pensions inférieures ou égales à 2 000 € par mois.",
-     "critique": "Technique d'économie budgétaire silencieuse : aucune prestation n'est nominalement baissée, mais la charge de l'inflation est transférée aux retraités et aux allocataires. La censure du Conseil constitutionnel est toutefois de pure procédure, non de fond : elle sanctionne un cavalier social, pas le principe de la sous-indexation. Le fléchissement réel — l'exemption des pensions sous 2 000 € — vient de la crise des Gilets jaunes, ce qui illustre le lien direct entre le rapport de force social et les arbitrages budgétaires. La même méthode reviendra en 2025 avec l'« année blanche » du plan Bayrou.",
+     "factuel": "L'article 68 de la loi de financement de la sécurité sociale pour 2019 (loi n° 2018-1203 du 22 décembre 2018) limite la revalorisation de l'ensemble des pensions de retraite et de plusieurs prestations sociales à 0,3 % pour 2019, alors que l'inflation constatée en 2018 s'élève à 1,8 % — soit une perte de pouvoir d'achat pour tous les retraités.",
+     "critique": "Technique d'économie budgétaire silencieuse : aucune prestation n'est nominalement baissée, mais la charge de l'inflation est transférée aux retraités et aux allocataires. Le mesure devait être appliquée en 2020 aussi, mais cette extension a été retoquée par le Conseil constitutionnel. Une nouvelle loi, un an plus tard, instaurera également une limitation pour 2020.",
      "sources": [
       {
        "nom": "Conseil constitutionnel — décision n° 2018-776 DC du 21 décembre 2018",

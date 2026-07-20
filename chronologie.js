@@ -3512,8 +3512,8 @@ window.DONNEES = {
      "precision": "periode",
      "transverse": false,
      "mois": 1,
-     "factuel": "Nommé Premier ministre le 13 décembre 2024 après la censure de Barnier, François Bayrou fait adopter le budget 2025 par 49.3 (3 février). Le Parti socialiste renonce à voter la censure au nom de la « stabilité » : la motion déposée par LFI, les communistes et les écologistes est rejetée le 5 février avec **128 voix seulement — dont six socialistes** —, très loin des 289 requises. Le PS souligne que sa décision « n'implique en rien une adhésion » à la politique de Bayrou.",
-     "critique": "Acte fondateur de ta rupture : « les socialistes qui essaient de se faire passer pour des gens raisonnables sont en réalité les auxiliaires et les complices ». Un budget d'austérité passé sans vote, sauvé par la gauche de gouvernement.",
+     "factuel": "Nommé Premier ministre le 13 décembre 2024 après la censure de Barnier, François Bayrou fait adopter le budget 2025 par 49.3 (3 février). Le Parti socialiste renonce à voter la censure au nom de la « stabilité » : la motion déposée par LFI, les communistes et les écologistes est rejetée le 5 février avec 128 voix seulement — dont six socialistes —, très loin des 289 requises. Le PS souligne que sa décision « n'implique en rien une adhésion » à la politique de Bayrou.",
+     "critique": "Un budget d'austérité passé sans vote, sauvé par la gauche de gouvernement.",
      "sources": [
       {
        "nom": "Touteleurope.eu",
@@ -3530,11 +3530,31 @@ window.DONNEES = {
      "precision": "annee",
      "transverse": true,
      "mois": null,
-     "factuel": "Tout au long de l'année, la France « déplore », « condamne » et « appelle au cessez-le-feu » sans prendre la moindre sanction. Dans le même temps, les livraisons de matériel militaire se poursuivent : en juin, Disclose révèle l'expédition depuis Fos-sur-Mer de composants pour armes (refusée par les dockers), troisième du genre en 2025 ; un rapport collectif documente un « flux ininterrompu » depuis octobre 2023. Des experts de l'ONU alertent qu'un tel transfert risque de rendre l'État « complice de crimes internationaux, dont le génocide ».",
-     "critique": "« Tout le champ sémantique de la réprobation y est passé » — sans effet. Le décalage entre les mots et les actes est le cœur de l'accusation de complicité qui traverse ton fil.",
+     "factuel": "Tout au long de l'année, la France « déplore », « condamne » et « appelle au cessez-le-feu » sans prendre la moindre sanction. Dans le même temps, les livraisons de matériel militaire se poursuivent : le 4 juin, Disclose révèle qu'un cargo doit embarquer à Fos-sur-Mer 14 tonnes de pièces détachées pour mitrailleuses. Le 10 juin, un rapport collectif signé par une dizaine d'organisations (dont AFPS, Attac, BDS France, Progressive International), présenté à l'Assemblée nationale, documente un « flux ininterrompu » de livraisons françaises vers Israël depuis octobre 2023 : au moins 16 expéditions maritimes vers Haïfa ou Ashdod et 14 vols de fret vers Tel-Aviv entre décembre 2023 et avril 2025, contredisant les démentis de Macron, Lecornu et Barrot. Le 7 mai, des experts de l'ONU (procédures spéciales du Conseil des droits de l'homme) avaient averti qu'« en continuant à soutenir Israël matériellement ou politiquement, notamment par des transferts d'armes […], les États risqu[ai]ent de se rendre complices d'un génocide et d'autres crimes internationaux graves ».",
+     "critique": "Le décalage entre les mots et les actes peine à cacher le traitement hyper biaisé du génocide perpétré par Israel.",
      "sources": [
       {
-       "nom": "France 24",
+       "nom": "France Diplomatie — communiqué du 29 octobre 2025",
+       "lien": "https://www.diplomatie.gouv.fr/fr/presse-et-ressources/decouvrir-et-informer/actualites/israel-palestine-situation-a-gaza"
+      },
+      {
+       "nom": "Disclose — « La France s'apprête à livrer des équipements pour mitrailleuses vers Israël »",
+       "lien": "https://disclose.ngo/fr/article/la-france-sapprete-a-livrer-des-equipements-pour-mitrailleuses-vers-israel"
+      },
+      {
+       "nom": "Marsactu — corroboration",
+       "lien": "https://marsactu.fr/la-france-sapprete-a-livrer-des-equipements-pour-mitrailleuses-vers-israel-depuis-fos/"
+      },
+      {
+       "nom": "Association France Palestine Solidarité — rapport « un flux ininterrompu »",
+       "lien": "https://www.france-palestine.org/Rapport-exclusif-Livraisons-d-armes-de-la-France-vers-Israel-un-flux"
+      },
+      {
+       "nom": "OHCHR — communiqué des experts de l'ONU, 7 mai 2025",
+       "lien": "https://www.ohchr.org/fr/press-releases/2025/05/end-unfolding-genocide-or-watch-it-end-life-gaza-un-experts-say-states-face"
+      },
+      {
+       "nom": "France 24 — « La France livre-t-elle des armes à Israël ? Ce que l'on sait »",
        "lien": "https://www.france24.com/fr/france/20250612-la-france-livre-t-elle-des-armes-%C3%A0-isra%C3%ABl-ce-que-l-on-sait"
       }
      ]
@@ -3548,12 +3568,16 @@ window.DONNEES = {
      "precision": "jour",
      "transverse": false,
      "mois": 4,
-     "factuel": "Depuis le 1er avril 2025, le salaire de référence servant à calculer les indemnités journalières maladie est plafonné à 1,4 SMIC (contre 1,8), réduisant le montant versé aux salariés en arrêt. Le gouvernement impute la hausse des dépenses à des prescriptions « en excès » ; les syndicats médicaux pointent la dégradation des conditions de travail et l'effondrement de la médecine du travail.",
+     "factuel": "Depuis le 1er avril 2025, le salaire de référence servant à calculer les indemnités journalières maladie est plafonné à 1,4 SMIC (contre 1,8), réduisant le montant versé aux salariés en arrêt. Le gouvernement impute la hausse des dépenses à des prescriptions « en excès » et à un manque de suivi médical régulier ; les syndicats médicaux pointent à l'inverse la dégradation des conditions de travail, l'explosion des troubles psychiques et une désorganisation profonde du système de soins.",
      "critique": "Tu démontes le chiffrage : « les 50 % sont mesurés non pas sur les arrêts en général, mais ceux qui font l'objet d'un contrôle […] Propagande. » Stigmatiser les malades pour justifier l'économie.",
      "sources": [
       {
        "nom": "Aide-sociale.fr",
        "lien": "https://www.aide-sociale.fr/reforme-arret-maladie/"
+      },
+      {
+       "nom": "Syndicalisme Hebdo (CFDT) — « Médecine du travail, un système dans l'impasse ? »",
+       "lien": "https://www.syndicalismehebdo.fr/article/medecine-du-travail-un-systeme-dans-limpasse"
       }
      ]
     },
@@ -3567,7 +3591,7 @@ window.DONNEES = {
      "transverse": false,
      "mois": 4,
      "factuel": "Le 25 avril, Aboubakar Cissé, 22 ans, est tué de 57 coups de couteau dans la mosquée de La Grand-Combe (Gard), l'agresseur accompagnant son geste de propos blasphématoires. Le crime relance le débat sur la reconnaissance de l'islamophobie et sur la lenteur de la réaction des autorités ; l'avocat de la famille juge les propos du ministre de l'Intérieur « totalement irrespectueux ».",
-     "critique": "Le fil pointe le silence et la tiédeur ministériels : « 24 h après le meurtre sauvage d'un homme parce que musulman, toujours aucune réaction d'indignation ou d'apaisement du ministre. » Deux poids, deux mesures selon la victime.",
+     "critique": "Suspect de tiédeur ministérielle dès lors que la victime est musulmane.",
      "sources": [
       {
        "nom": "Wikipédia (Assassinat d'Aboubakar Cissé, sourcé)",
@@ -3584,12 +3608,16 @@ window.DONNEES = {
      "precision": "periode",
      "transverse": false,
      "mois": 5,
-     "factuel": "L'affaire Bétharram — des centaines de violences physiques et sexuelles commises pendant des décennies dans un établissement catholique des Pyrénées — rattrape le Premier ministre, ancien ministre de l'Éducation, dont l'épouse a enseigné dans l'établissement et dont les enfants y étaient scolarisés. Bayrou affirme n'avoir « jamais été informé ». Ses dénégations sont contredites par le gendarme Alain Hontangs, qui dirigea l'enquête de 1998 et affirme que le procureur général réclama le dossier après une intervention de Bayrou, ainsi que par le juge Christian Mirande ; Bayrou soutient ne pas connaître le gendarme, menace de porter plainte en diffamation et renvoie la faute sur des ministres du gouvernement Jospin. Sa propre fille révèle par ailleurs avoir été frappée lors d'un camp de l'établissement. Auditionné 5 h 30 le 14 mai sur ses versions successives, il voit le rapport de la commission d'enquête (2 juillet) pointer un « défaut d'action » ayant pu laisser les violences « perdurer » — conclusion qu'il réfute. Il ne démissionne pas et restera à Matignon jusqu'à sa chute, deux mois plus tard, sur un tout autre sujet.",
-     "critique": "« Il a menti 14 fois au pays entier sans jamais envisager de démissionner. » L'accumulation de versions contradictoires, démenties par des témoins directs, et l'absence totale de conséquence font de ce dossier le symbole de l'irresponsabilité au sommet.",
+     "factuel": "L'affaire Bétharram — des centaines de violences physiques et sexuelles commises pendant des décennies dans un établissement catholique des Pyrénées — rattrape le Premier ministre, ancien ministre de l'Éducation, dont l'épouse a enseigné dans l'établissement et dont les enfants y étaient scolarisés. Bayrou affirme n'avoir « jamais été informé ». Il multiplie les dénégations, souvent contredites dans les heures qui suivent. Il ne démissionne pas et restera à Matignon jusqu'à sa chute, deux mois plus tard, sur un tout autre sujet.",
+     "critique": "Le premier ministre a menti 14 fois au pays entier sans jamais envisager de démissionner. L'accumulation de versions contradictoires, démenties par des témoins directs, et l'absence totale de conséquence font de ce dossier le symbole de l'irresponsabilité au sommet.",
      "sources": [
       {
        "nom": "France 24",
        "lien": "https://www.france24.com/fr/info-en-continu/20250702-b%C3%A9tharram-le-rapport-de-la-commission-d-enqu%C3%AAte-pointe-un-d%C3%A9faut-d-action-de-fran%C3%A7ois-bayrou"
+      },
+      {
+       "nom": "Mediapart",
+       "lien": "https://www.mediapart.fr/journal/france/140525/betharram-la-chronologie-d-une-inaction-coupable"
       }
      ]
     },
@@ -3602,11 +3630,31 @@ window.DONNEES = {
      "precision": "periode",
      "transverse": false,
      "mois": 4,
-     "factuel": "Fin avril, Bruno Retailleau engage des procédures de dissolution contre Urgence Palestine, la Jeune Garde antifasciste et le groupuscule d'extrême droite Lyon Populaire, confirmées le 16 mai. La Jeune Garde est dissoute le 12 juin. En parallèle s'intensifie la répression de l'expression pro-palestinienne : drapeaux arrachés par la police lors de rassemblements et, le 6 novembre, quatre personnes placées en garde à vue après l'interruption du concert de l'Orchestre philharmonique d'Israël à la Philharmonie de Paris, les militants dénonçant avoir été brutalisés lors de leur évacuation.",
-     "critique": "Asymétrie dénoncée en continu : on dissout des antifascistes et des collectifs de soutien à la Palestine pendant que « les nazis ont le droit de défiler » — la marche féministe du 7 mars, elle, avait été interdite.",
+     "factuel": "Fin avril, Bruno Retailleau engage des procédures de dissolution contre Urgence Palestine, la Jeune Garde antifasciste et le groupuscule d'extrême droite Lyon Populaire, confirmées le 16 mai. La Jeune Garde est dissoute le 12 juin. En parallèle s'intensifie la répression de l'expression pro-palestinienne : drapeaux arrachés par la police lors de rassemblements — Amnesty International France dénonce dès mai « des restrictions disproportionnées ciblant certains chants, pancartes, ou la simple tenue de drapeaux palestiniens » et « un recours excessif de la police à l'usage de la force » ; illustration concrète le 9 juillet à Caen, où des CRS arrachent des mains de manifestants des drapeaux palestiniens sur le passage du Tour de France. Le 6 novembre, quatre personnes sont placées en garde à vue après l'interruption du concert de l'Orchestre philharmonique d'Israël à la Philharmonie de Paris ; des militants pro-palestiniens présents dans le public dénoncent avoir reçu, de la part d'autres spectateurs puis lors de leur évacuation, coups de pied et de poing, crachats et insultes.",
+     "critique": "Soutien à la cause Palestienne systématiquement réprimé.",
      "sources": [
       {
-       "nom": "franceinfo",
+       "nom": "Amnesty International France — « Dissolution d'Urgence Palestine : une menace contre les défenseurs des droits des Palestiniens »",
+       "lien": "https://www.amnesty.fr/actualites/dissolution-urgence-palestine-une-menace-contre-les-defenseurs-des-droits-palestiniens/"
+      },
+      {
+       "nom": "Anadolu Agency — CRS arrachant des drapeaux palestiniens au Tour de France à Caen",
+       "lien": "https://www.aa.com.tr/fr/monde/incidents-lors-du-tour-de-france-2025-des-crs-arrachent-des-drapeaux-palestiniens/3627278"
+      },
+      {
+       "nom": "AFPS — même épisode",
+       "lien": "https://www.france-palestine.org/Tour-de-France-violente-repression-de-la-denonciation-du-blanchiment-des-crimes"
+      },
+      {
+       "nom": "franceinfo — concert de la Philharmonie interrompu, quatre gardes à vue",
+       "lien": "https://www.franceinfo.fr/culture/musique/classique/le-concert-de-l-orchestre-philharmonique-d-israel-perturbe-par-des-individus-a-la-philharmonie-de-paris_7601069.html"
+      },
+      {
+       "nom": "Politis — témoignage d'un militant sur les violences subies",
+       "lien": "https://www.politis.fr/articles/2025/11/du-public-de-la-philharmonie-jai-recu-des-coups-de-pied-et-de-poing-des-crachats-des-insultes/"
+      },
+      {
+       "nom": "franceinfo — dissolution d'Urgence Palestine, Jeune Garde et Lyon Populaire",
        "lien": "https://www.franceinfo.fr/politique/bruno-retailleau/bruno-retailleau-confirme-la-dissolution-prochaine-d-urgence-palestine-jeune-garde-et-lyon-populaire_7253271.html"
       }
      ]
@@ -3621,7 +3669,7 @@ window.DONNEES = {
      "transverse": false,
      "mois": 6,
      "factuel": "Le 10 juin, l'armée israélienne arraisonne dans les eaux internationales le voilier Madleen, avec douze militants à bord dont Greta Thunberg et l'eurodéputée franco-palestinienne Rima Hassan. Six Français sont détenus. Rima Hassan est placée à l'isolement à la prison de Neve Tirza pour avoir écrit « Free Palestine » sur le mur de sa cellule. Devant l'Assemblée, Bayrou juge « inacceptable » l'emploi du mot « otage » ; le groupe communiste quitte l'hémicycle. Barrot dénonce la « désinformation » de LFI.",
-     "critique": "Tu interpelles le ministre : « Obtenez la libération de nos ressortissants détenus illégalement par Israël, et prenez enfin des sanctions contre cet État qui poursuit un génocide » — puis : « Ça doit être bizarre d'avoir un gouvernement qui a une épine dorsale. »",
+     "critique": "Peu de célérité à défendre des compatriotes, dont une élue, illégalement détenue.",
      "sources": [
       {
        "nom": "Public Sénat",
@@ -3639,7 +3687,7 @@ window.DONNEES = {
      "transverse": false,
      "mois": 7,
      "factuel": "Adoptée par le Parlement le 8 juillet, la loi Duplomb réintroduit à titre dérogatoire l'acétamipride, néonicotinoïde interdit en France depuis 2018. Une pétition — « Non à la loi Duplomb : pour la santé, la sécurité, l'intelligence collective » — lancée le 10 juillet sur la plateforme de l'Assemblée nationale par une étudiante de 23 ans franchit les 500 000 signatures en neuf jours (une première) et dépasse les 2,1 millions — record absolu de la plateforme, tous sujets confondus. Le 7 août, le Conseil constitutionnel censure la réintroduction du pesticide, jugeant qu'elle porte atteinte au droit constitutionnel de vivre dans un environnement équilibré et respectueux de la santé.",
-     "critique": "Mobilisation citoyenne d'une ampleur inédite contre un recul écologique voté par la majorité et la droite, suivie d'un désaveu constitutionnel cinglant. Le débat réclamé par les signataires n'a été organisé à l'Assemblée que le **11 février 2026 — sept mois plus tard — et sans vote** : une demi-journée, cinq minutes de parole par groupe, puis une ou deux questions au gouvernement. C'était une première sous la Ve République, ce qui souligne autant l'ouverture du dispositif que ses limites : deux millions de signatures n'ouvrent droit qu'à une discussion sans portée normative.",
+     "critique": "Mobilisation citoyenne d'une ampleur inédite contre un recul écologique voté par la majorité et la droite, suivie d'un désaveu constitutionnel cinglant. Le débat réclamé par les signataires n'a été organisé à l'Assemblée que le 11 février 2026 — sept mois plus tard — et sans vote : une demi-journée, cinq minutes de parole par groupe, puis une ou deux questions au gouvernement. C'était une première sous la Ve République, ce qui souligne autant l'ouverture du dispositif que ses limites : deux millions de signatures n'ouvrent droit qu'à une discussion sans portée normative.",
      "sources": [
       {
        "nom": "LCP — la pétition dépasse les deux millions de signatures",
@@ -3665,7 +3713,7 @@ window.DONNEES = {
      "transverse": false,
      "mois": 7,
      "factuel": "François Bayrou présente un plan de redressement des comptes publics : 43,8 milliards d'euros d'économies, une « année blanche » en 2026 (gel des prestations, des barèmes et des pensions) et la suppression de deux jours fériés (lundi de Pâques et 8 mai) pour « augmenter la production », mesure censée rapporter 4 milliards.",
-     "critique": "Reçu comme une provocation : « faire travailler les Français deux jours de plus gratuitement ». Et l'écho amer : « Sarkozy 2007 : travailler plus pour gagner plus. Macron 2025 : travailler plus. »",
+     "critique": "Reçu comme une provocation : « faire travailler les Français deux jours de plus gratuitement »",
      "sources": [
       {
        "nom": "info.gouv.fr",
@@ -3683,7 +3731,7 @@ window.DONNEES = {
      "transverse": false,
      "mois": 9,
      "factuel": "Ayant lui-même engagé un vote de confiance sur sa trajectoire budgétaire, François Bayrou est massivement désavoué le 8 septembre : **194 voix pour, 364 contre**. Il présente sa démission le lendemain. C'est la **première fois sous la Ve République qu'un gouvernement tombe sur un vote de confiance** qu'il a lui-même sollicité.",
-     "critique": "Deuxième gouvernement renversé en moins d'un an, et par une voie inédite : Barnier était tombé sur une motion de censure (la première adoptée depuis 1962), Bayrou tombe sur sa propre demande de confiance. Deux premières institutionnelles en neuf mois. Bilan tiré dans le fil : « 6 mois de perdus, 6 mois d'errances, 6 mois de souffrances pour le pays. »",
+     "critique": "Deuxième gouvernement renversé en moins d'un an, et par une voie inédite : Barnier était tombé sur une motion de censure (la première adoptée depuis 1962), Bayrou tombe sur sa propre demande de confiance. Deux premières institutionnelles en neuf mois. »",
      "sources": [
       {
        "nom": "France 24",
@@ -3701,7 +3749,7 @@ window.DONNEES = {
      "transverse": false,
      "mois": 9,
      "factuel": "Dès le lendemain de la chute de Bayrou, Macron nomme Sébastien Lecornu, ministre des Armées et l'un des derniers fidèles du premier cercle présidentiel, à Matignon.",
-     "critique": "Perçu comme une provocation : « Macron a nommé le type le plus macroniste après Macron lui-même. » Tu postes ce jour-là, laconique : « Lecornu démission. »",
+     "critique": "Perçu comme une provocation : « Macron a nommé le type le plus macroniste après Macron lui-même. »",
      "sources": [
       {
        "nom": "Wikipédia (Gouvernement Lecornu I, sourcé)",
@@ -3718,8 +3766,8 @@ window.DONNEES = {
      "precision": "jour",
      "transverse": false,
      "mois": 9,
-     "factuel": "Né hors des partis et des syndicats contre le plan budgétaire, le mouvement « Bloquons tout » rassemble le 10 septembre **200 000 personnes selon le ministère de l'Intérieur, plus de 250 000 selon la CGT**. En fin de journée, 812 actions sont recensées : 550 rassemblements et 262 blocages. L'État déploie 80 000 policiers et gendarmes ; **473 personnes sont interpellées** et treize membres des forces de l'ordre sont légèrement blessés.",
-     "critique": "Le fil relève l'ironie du dispositif : « la principale dégradation de cette journée dont Retailleau avait si peur, c'est l'incendie d'une poubelle » — et la brutalité, « la police a gazé devant une école maternelle dans le 20e ».",
+     "factuel": "Né hors des partis et des syndicats contre le plan budgétaire, le mouvement « Bloquons tout » rassemble le 10 septembre **200 000 personnes selon le ministère de l'Intérieur, plus de 250 000 selon la CGT**. En fin de journée, 812 actions sont recensées : 550 rassemblements et 262 blocages. L'État déploie 80 000 policiers et gendarmes ; 473 personnes sont interpellées et treize membres des forces de l'ordre sont légèrement blessés.",
+     "critique": "Mouvement né hors parti, sa violence à venir a été annoncée avec délice par les médias pendant des jours. Il n'y a eu pratiquement aucune violence, malgré un dispositif policier impressionant.",
      "sources": [
       {
        "nom": "franceinfo",
@@ -3755,7 +3803,7 @@ window.DONNEES = {
      "transverse": false,
      "mois": 9,
      "factuel": "Le 25 septembre, Nicolas Sarkozy est condamné à cinq ans de prison pour association de malfaiteurs dans le dossier du financement libyen de sa campagne de 2007. Incarcéré le 21 octobre à la Santé — premier ancien chef d'État de l'Union européenne emprisonné —, il reçoit en détention la visite du garde des Sceaux Gérald Darmanin, malgré l'avertissement du procureur général sur le risque d'« atteinte à l'indépendance des magistrats ». Libéré sous contrôle judiciaire le 10 novembre, il lui est interdit… de contacter Darmanin.",
-     "critique": "Emblème de l'impunité : « le président : condamné ; son secrétaire général : condamné ; son avocat : condamné ; son directeur de campagne : condamné ». Et la double peine inversée : Anticor, elle, reste privée d'agrément pour agir contre la corruption.",
+     "critique": "Même finalement condamné, Sarkozy ne reste que 20 jours en prison, dans des conditions très privilégiées.",
      "sources": [
       {
        "nom": "France 24",
@@ -3772,9 +3820,17 @@ window.DONNEES = {
      "precision": "periode",
      "transverse": false,
      "mois": 10,
-     "factuel": "Début octobre, la marine israélienne intercepte dans les eaux internationales les navires de la Global Sumud Flotilla (environ 500 participants de 45 pays, dont plusieurs parlementaires LFI et Greta Thunberg) et détient les passagers. Des militants déportés dénoncent des mauvais traitements : « ils nous ont frappés, traînés au sol, bandé les yeux, attaché les mains et les pieds, mis en cage ». Paris se borne à demander la protection consulaire.",
-     "critique": "« Une puissance étrangère génocidaire retient des députés français en otages, et le pouvoir macroniste ne réagit pas. Soumission. »",
+     "factuel": "Début octobre, la marine israélienne intercepte dans les eaux internationales les navires de la Global Sumud Flotilla (environ 500 participants de 45 pays, dont plusieurs parlementaires LFI et Greta Thunberg) et détient les passagers. Des militants déportés dénoncent des mauvais traitements : « ils nous ont frappés, traînés au sol, bandé les yeux, attaché les mains et les pieds ». Paris se borne à demander la protection consulaire.",
+     "critique": "Toujours la même mansuétude à tolérer les actions illégales d'Israel, et toujours le même manque d'empressement à défendre les citoyens Français s'ils sont des opposants.",
      "sources": [
+      {
+       "nom": "Infobae (citant RTVE) — témoignages des activistes espagnols expulsés",
+       "lien": "https://www.infobae.com/espana/2025/10/07/activistas-de-la-flotilla-denuncian-su-secuestro-en-aguas-internacionales-y-anuncian-que-emprenderan-acciones-legales-contra-el-gobierno-sionista-de-israel/"
+      },
+      {
+       "nom": "RTBF — témoignages des militants belges sur la détention à Ketziot",
+       "lien": "https://www.rtbf.be/article/six-militants-de-la-flottille-global-sumud-pour-gaza-accueillis-en-heros-a-brussels-airport-11612304"
+      },
       {
        "nom": "France 24",
        "lien": "https://www.france24.com/en/middle-east/20251002-global-sumud-flotilla-latest-bid-to-break-gaza-blockade-drew-activists-from-across-the-world"
@@ -3790,8 +3846,8 @@ window.DONNEES = {
      "precision": "mois",
      "transverse": false,
      "mois": 10,
-     "factuel": "Le **1er octobre**, lors du renouvellement du bureau de l'Assemblée nationale, les députés RN Sébastien Chenu (**341 voix**) et Hélène Laporte (**340 voix**) retrouvent les vice-présidences qu'ils occupaient de 2022 à 2024 — grâce aux voix conjuguées de leur groupe et d'une partie du « socle commun » macroniste et LR, Yaël Braun-Pivet ayant œuvré à cette répartition proportionnelle contre l'opposition de la gauche. À titre de comparaison, les vice-présidentes LFI Clémence Guetté et Nadège Abomangoli sont réélues avec 501 voix chacune. Quelques mois plus tôt (1er juillet), le RN avait déjà sauvé le gouvernement lors d'un vote sur les retraites.",
-     "critique": "Aboutissement du « barrage » retourné : « élus grâce aux désistements de la gauche en 2024, ils font élire l'extrême droite ». La cohabitation avec le RN devient un mode de gouvernement.",
+     "factuel": "Le 1er octobre, lors du renouvellement du bureau de l'Assemblée nationale, les députés RN Sébastien Chenu et Hélène Laporte retrouvent les vice-présidences qu'ils occupaient de 2022 à 2024 — grâce aux voix conjuguées de leur groupe et d'une partie du « socle commun » macroniste et LR, Yaël Braun-Pivet ayant œuvré à cette répartition proportionnelle contre l'opposition de la gauche. Quelques mois plus tôt (1er juillet), le RN avait déjà sauvé le gouvernement lors d'un vote sur les retraites.",
+     "critique": "La cohabitation avec le RN devient un mode de gouvernement.",
      "sources": [
       {
        "nom": "Politis",
@@ -3809,7 +3865,7 @@ window.DONNEES = {
      "transverse": false,
      "mois": 10,
      "factuel": "Après vingt-six jours de tractations, Lecornu dévoile son gouvernement le 5 octobre : un quasi copier-coller du précédent, complété par Éric Woerth — nommé dix jours après la condamnation de Sarkozy. Devant la menace de retrait des Républicains, il démissionne dès le lendemain, 6 octobre. C'est le gouvernement le plus éphémère de la Ve République. LFI dépose une motion de destitution signée par 104 députés.",
-     "critique": "« Lecornu aura mis 26 jours pour faire un copier-coller » ; « ce ne sera pas un gouvernement mais un bras d'honneur ». Le sommet du grotesque institutionnel.",
+     "critique": "Sommet du grotesque institutionnel qui serait divertissant s'il ne se faisait pas en empêchant les vainqueurs légitime de l'élection d'essayer de gouverner.",
      "sources": [
       {
        "nom": "Wikipédia (Gouvernement Lecornu I, sourcé)",
@@ -3827,7 +3883,7 @@ window.DONNEES = {
      "transverse": false,
      "mois": 10,
      "factuel": "Le 10 octobre au soir, Macron reconduit Sébastien Lecornu à Matignon avec pour mission de doter le pays d'un budget. Le gouvernement est nommé deux jours plus tard ; des ministres LR y figurent malgré l'opposition de leur parti.",
-     "critique": "« Y a pas un gars qui est très fier d'être le garant des institutions et qui devrait veiller à ce qu'on ait un gouvernement, à un moment ? » — et cette ironie : l'exécutif s'octroie « quelques mois de gouvernement démissionnaire pour poursuivre un peu sa politique en attendant ».",
+     "critique": "Suite du grotesque, et une preuve de plus que Macron gouverne systématiquement (très) à droite.",
      "sources": [
       {
        "nom": "Élysée",
@@ -3844,11 +3900,19 @@ window.DONNEES = {
      "precision": "jour",
      "transverse": false,
      "mois": 10,
-     "factuel": "Le 31 octobre, l'Assemblée nationale rejette la taxe Zucman — impôt plancher de 2 % sur les patrimoines supérieurs à 100 millions d'euros, soit environ 1 800 foyers — **par 228 voix contre 172**. Les quatre groupes de gauche votent pour ; les groupes de l'ex-majorité présidentielle (Ensemble pour la République, Les Démocrates, Horizons), Les Républicains et le Rassemblement national votent contre. Une version allégée proposée par la députée PS Estelle Mercier — 3 % au-delà de 10 millions, en excluant les entreprises innovantes et familiales — subit le même sort. La mesure est pourtant portée par une forte mobilisation citoyenne : une pétition de soutien (taxezucman.fr) et plusieurs initiatives sur la plateforme de pétitions de l'Assemblée nationale en réclament l'adoption, des milliers d'internautes interpellant directement leurs députés, avec l'appui de plusieurs lauréats du prix Nobel d'économie. Gabriel Zucman rappelle que si tous les milliardaires français s'expatriaient, la perte fiscale resterait dérisoire au regard des recettes attendues. En trente ans, les milliardaires français sont devenus neuf fois plus nombreux et quatorze fois plus riches.",
+     "factuel": "Le 31 octobre, l'Assemblée nationale rejette la taxe Zucman — impôt plancher de 2 % sur les patrimoines supérieurs à 100 millions d'euros, soit environ 1 800 foyers — par 228 voix contre 172. Les quatre groupes de gauche votent pour ; les groupes de l'ex-majorité présidentielle (Ensemble pour la République, Les Démocrates, Horizons), Les Républicains et le Rassemblement national votent contre. Une version allégée proposée par la députée PS Estelle Mercier — 3 % au-delà de 10 millions, en excluant les entreprises innovantes et familiales — subit le même sort.\n\nLa mesure est pourtant portée par une forte mobilisation citoyenne : une pétition de soutien (taxezucman.fr) et plusieurs initiatives sur la plateforme de pétitions de l'Assemblée nationale en réclament l'adoption, des milliers d'internautes interpellant directement leurs députés, avec l'appui de plusieurs lauréats du prix Nobel d'économie. Gabriel Zucman rappelle que si tous les milliardaires français s'expatriaient, la perte fiscale resterait dérisoire au regard des recettes attendues. En trente ans, la fortune des plus grandes fortunes françaises a été multipliée par une quinzaine.",
      "critique": "Le symbole fiscal de l'année : « Ce qui manque, ce n'est pas l'argent, mais le courage politique. » Pendant ce temps, Bernard Arnault, reçu par Bayrou après ses « pleurnicheries », reprend « la rhétorique complotiste de l'extrême droite ».",
      "sources": [
       {
-       "nom": "LCP – Assemblée nationale",
+       "nom": "Gabriel Zucman — newsletter, 09/02/2025",
+       "lien": "https://gabrielzucman.kessel.media/posts/pst_844062fc945840a696cc13eff21d8935/la-france-est-un-paradis-fiscal-pour-milliardaire"
+      },
+      {
+       "nom": "CGT — Mémo éco n°152, 23/09/2025",
+       "lien": "https://analyses-propositions.cgt.fr/memo-eco-ndeg152-deficit-public-la-taxe-zucman-pour-mettre-contribution-les-plus-fortunes"
+      },
+      {
+       "nom": "LCP – Assemblée nationale (vote du 31/10)",
        "lien": "https://lcp.fr/actualites/budget-2026-la-taxe-zucman-rejetee-par-l-assemblee-nationale-413632"
       }
      ]
@@ -3862,8 +3926,8 @@ window.DONNEES = {
      "precision": "periode",
      "transverse": false,
      "mois": 10,
-     "factuel": "Dans sa déclaration de politique générale du 14 octobre, Lecornu annonce la suspension de la réforme des retraites de 2023 — concession destinée à éviter la censure socialiste. Le décalage est voté le 12 novembre par **255 voix contre 146**, dans le cadre de l'article 45 bis du PLFSS. La suspension court jusqu'en **janvier 2028** : elle ne gèle rien durablement, l'âge de 64 ans étant simplement atteint en 2033 au lieu de 2032, et seules les générations 1964-1968 gagnent un trimestre.\n\n*Précision — Le détail du vote complique la lecture d'un simple « gain du PS » : **LFI a voté contre**, réclamant une abrogation pure et simple plutôt qu'un report, et **le camp présidentiel s'est abstenu** plutôt que de soutenir la mesure qu'il concédait. La Droite républicaine a voté contre. La suspension a donc été acquise sans le vote de celui qui l'accordait ni celui d'une partie de ceux qui la réclamaient — ce qui en dit long sur son statut de monnaie d'échange.*",
-     "critique": "« L'incroyable gain obtenu par le PS, et si compromis dingue effectué par le parti présidentiel. » D'où ton verdict : « je parie que jamais, dans aucune condition, un candidat socialiste n'aura ma voix. #plusjamaisPS #eternelstraitres ».",
+     "factuel": "Dans sa déclaration de politique générale du 14 octobre, Lecornu annonce la suspension de la réforme des retraites de 2023 — concession destinée à éviter la censure socialiste. La suspension court jusqu'en janvier 2028 : elle ne gèle rien durablement, l'âge de 64 ans étant simplement atteint en 2033 au lieu de 2032, et seules les générations 1964-1968 gagnent un trimestre.",
+     "critique": "Sauvetage d'un gouvernement illégitime par le PS pour une concession minime.",
      "sources": [
       {
        "nom": "Touteleurope.eu",
@@ -3881,7 +3945,7 @@ window.DONNEES = {
      "transverse": false,
      "mois": 12,
      "factuel": "Le 8 décembre, Brigitte Macron qualifie de « sales connes » des militantes féministes ayant interrompu un spectacle d'Ary Abittan, comédien qui avait été mis en examen pour viol. Une plainte pour injure publique est déposée ; les militantes se réapproprient l'insulte.",
-     "critique": "« Vivent les sales connes », postes-tu. Dernier épisode d'une série qui va de Depardieu aux ministres accusés maintenus en poste.",
+     "critique": "Mépris, indifférence au sort des femmes, et vulgarité bourgeoise.",
      "sources": [
       {
        "nom": "France 24",
@@ -3898,8 +3962,8 @@ window.DONNEES = {
      "precision": "periode",
      "transverse": false,
      "mois": 12,
-     "factuel": "Le 9 décembre, le budget de la Sécurité sociale pour 2026 est adopté en deuxième lecture par **247 voix contre 234** — treize voix d'écart — grâce à l'abstention majoritaire du groupe Écologiste et social, obtenue contre un amendement gouvernemental de dernière minute portant la progression de l'Ondam de 2 % à 3 %. Le texte est définitivement adopté le 16 décembre par **247 voix pour, 232 contre et 90 abstentions**, après le rejet des dernières motions de censure. Le Conseil constitutionnel le déclarera partiellement conforme le 30 décembre, jour de sa promulgation. Il comporte environ 5 milliards d'économies sur la Sécurité sociale.",
-     "critique": "« Ils rejoignent de facto le camp du bloc bourgeois — et des traîtres. » Après le PS, les écologistes : le fil y voit la répétition du même mécanisme de sauvetage du macronisme par sa gauche.",
+     "factuel": "Le 9 décembre, le budget de la Sécurité sociale pour 2026 est adopté en deuxième lecture par 247 voix contre 234 — treize voix d'écart — grâce à l'abstention majoritaire du groupe Écologiste et social, obtenue contre un amendement gouvernemental de dernière minute portant la progression de l'Ondam de 2 % à 3 %. Le texte comporte environ 5 milliards d'économies sur la Sécurité sociale.",
+     "critique": "Grâce à la menace d'un chaos budgétaire, les écologistes aussi sauvent le gouvernement illégitime pour une concession minuscule.",
      "sources": [
       {
        "nom": "franceinfo",

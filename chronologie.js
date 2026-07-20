@@ -1,6 +1,6 @@
 window.DONNEES = {
  "genere_le": "2026-07-20",
- "total_fiches": 181,
+ "total_fiches": 180,
  "textes": {
   "titre": "Machronologie",
   "titre_balise": "**Mac**h**ron**ologie",
@@ -2646,7 +2646,7 @@ window.DONNEES = {
   },
   {
    "annee": 2023,
-   "note": "Année de la réforme des retraites, de la mort de Nahel et de la loi immigration.",
+   "note": "Réforme des retraites, de la mort de Nahel et de la repression de la solidarité envers Gaza.",
    "total": 18,
    "densite": [
     2,
@@ -3111,8 +3111,8 @@ window.DONNEES = {
   },
   {
    "annee": 2024,
-   "note": "Dernière année du corpus (archive Twitter jusqu'au 14 novembre, prolongée par Bluesky).",
-   "total": 18,
+   "note": "Année de droitisation et d'autoritarisme, avec la dissolution tactique dont les résultats sont ignorés.",
+   "total": 17,
    "densite": [
     2,
     2,
@@ -3137,12 +3137,36 @@ window.DONNEES = {
      "precision": "periode",
      "transverse": false,
      "mois": 1,
-     "factuel": "Gabriel Attal est nommé Premier ministre le 9 janvier (au lendemain de la démission d'Élisabeth Borne), gouvernement formé le 11. Le fil le raille comme « le plus à droite » (plus de sarkozystes qu'en 2007), avec le maintien de ministres visés par des affaires — au mépris de la promesse de 2017 d'exclure tout ministre mis en examen — et l'entrée d'Aurore Bergé (ex-opposante au mariage pour tous) à l'Égalité. Sa déclaration de politique générale (30 janvier) est reçue comme une « déclaration de guerre sociale ».",
-     "critique": "Droitisation assumée et reniement de l'« exemplarité » de 2017, sous un Premier ministre présenté comme le nouveau visage jeune du macronisme.",
+     "factuel": "Gabriel Attal est nommé Premier ministre le 9 janvier (au lendemain de la démission d'Élisabeth Borne), gouvernement formé le 11. Sur les 14 ministres de plein exercice, 8 viennent de la droite : la presse évoque unanimement un retour du sarkozysme. Le gouvernement maintient aussi des ministres visés par des affaires — au mépris de la promesse de 2017 d'exclure tout ministre mis en examen (Éric Dupond-Moretti, Gérald Darmanin). Il nomme également Aurore Bergé, initialement opposante à l'ouverture du mariage aux couples de même sexe en 2010-2011, à l'Égalité.\n\nSa déclaration de politique générale (30 janvier), qui annonce la généralisation du RSA sous conditions et la suppression de l'AME, est qualifiée de « déclaration de guerre sociale » par la presse militante. Une lecture que corrobore, en plus mesuré, la réaction de la secrétaire générale de la CGT Sophie Binet, qui dénonce « une véritable guerre » du gouvernement et du patronat contre les seniors et « la fuite en avant réactionnaire de ce nouveau gouvernement ».",
+     "critique": "Droitisation assumée et reniement de l'« exemplarité » de 2017.",
      "sources": [
       {
-       "nom": "info.gouv.fr",
+       "nom": "info.gouv.fr — nomination",
        "lien": "https://www.info.gouv.fr/actualite/gabriel-attal-nomme-premier-ministre"
+      },
+      {
+       "nom": "Le Monde — un gouvernement droitisé",
+       "lien": "https://www.lemonde.fr/politique/article/2024/01/12/au-dela-de-la-surprise-rachida-dati-un-nouveau-gouvernement-resserre-marque-par-une-etonnante-stabilite_6210399_823448.html"
+      },
+      {
+       "nom": "Maire-info — composition détaillée du gouvernement",
+       "lien": "https://www.maire-info.com/gouvernement-attal-la-fin-de-la-societe-civile-aux-postes-cles-article2-28192"
+      },
+      {
+       "nom": "franceinfo — Boris Vallaud, « ligue sarkozyste dissoute »",
+       "lien": "https://www.francetvinfo.fr/politique/gouvernement-de-gabriel-attal/gouvernement-attal-une-reconstitution-de-la-ligue-sarkozyste-dissoute-selon-le-president-du-groupe-socialiste-a-l-assemblee-boris-vallaud_6298647.html"
+      },
+      {
+       "nom": "Komitid — le parcours d'Aurore Bergé sur le mariage pour tous",
+       "lien": "https://www.komitid.fr/2013/01/11/pourquoi-aurore-berge-membre-de-lump-ira-marcher-pour-le-mariage-pour-tous-les-couples/"
+      },
+      {
+       "nom": "Révolution Permanente — « cap sur la guerre sociale »",
+       "lien": "https://www.revolutionpermanente.fr/Declaration-de-politique-generale-de-Gabriel-Attal-cap-sur-la-guerre-sociale"
+      },
+      {
+       "nom": "La Vie Ouvrière (CGT) — réaction de Sophie Binet",
+       "lien": "https://nvo.fr/colere-de-la-cgt-face-au-discours-de-politique-generale-du-premier-ministre/"
       }
      ]
     },
@@ -3155,12 +3179,20 @@ window.DONNEES = {
      "precision": "mois",
      "transverse": false,
      "mois": 1,
-     "factuel": "La nouvelle ministre de l'Éducation Amélie Oudéa-Castéra justifie la scolarisation de ses enfants dans le privé en dénigrant le public (12 janvier). Mediapart révèle (16 janvier) un rapport d'inspection accablant sur l'établissement catholique Stanislas (dérives sexistes et homophobes, non-respect des programmes) — financé sur fonds publics. La Ville de Paris suspend ses subventions.",
+     "factuel": "La nouvelle ministre de l'Éducation Amélie Oudéa-Castéra justifie la scolarisation de ses enfants dans le privé en dénigrant le public (12 janvier). Mediapart révèle (16 janvier) un rapport d'inspection de l'IGÉSR — commandé en février 2023, bouclé en août — accablant pour l'établissement catholique Stanislas : caractère obligatoire de la catéchèse contraire à la loi, non-mixité et code vestimentaire genré constitutifs d'un climat sexiste, et propos tenus par certains catéchistes (homophobie, anti-IVG, promotion de thérapies de conversion) — financé sur fonds publics. Le 17 janvier, la Ville de Paris annonce la suspension de ses subventions « à titre conservatoire ».",
      "critique": "Symbole du deux-poids-deux-mesures scolaire : l'argent public arrose un privé aux dérives couvertes pendant que le public est méprisé.",
      "sources": [
       {
-       "nom": "Public Sénat",
+       "nom": "Public Sénat — le rapport d'inspection sur Stanislas",
+       "lien": "https://www.publicsenat.fr/actualites/politique/le-rapport-dinspection-sur-letablissement-stanislas-remet-il-en-cause-son-contrat-dassociation-avec-letat"
+      },
+      {
+       "nom": "Public Sénat — polémique et financement public",
        "lien": "https://www.publicsenat.fr/actualites/politique/polemique-oudea-castera-une-proposition-de-loi-sattaque-au-financement-public-des-ecoles-privees"
+      },
+      {
+       "nom": "Les Surligneurs — la suspension des subventions est illégale",
+       "lien": "https://lessurligneurs.eu/la-mairie-de-paris-suspend-le-versement-de-ses-subventions-a-letablissement-catholique-stanislas/"
       }
      ]
     },
@@ -3173,7 +3205,7 @@ window.DONNEES = {
      "precision": "mois",
      "transverse": true,
      "mois": null,
-     "factuel": "Après la Palme d'or d'« Anatomie d'une chute » (mai 2023), où Justine Triet dénonce un pouvoir « qui a nié de manière choquante » la contestation des retraites et menace l'exception culturelle, Macron ne la félicite pas. Il ne le fera qu'après son Oscar (mars 2024).",
+     "factuel": "Macron ne félicite pas Justine Triet pour sa Palme d'or pour \"Anatomie d'une chute\" suite à son discours où elle dénonce un pouvoir « qui a nié de manière choquante » la contestation des retraites et menace l'exception culturelle. Il ne le fera qu'après son Oscar (mars 2024).",
      "critique": "Bouderie présidentielle envers une artiste critique, illustrant le rapport épidermique du pouvoir à la contestation culturelle.",
      "sources": [
       {
@@ -3227,8 +3259,8 @@ window.DONNEES = {
      "precision": "jour",
      "transverse": false,
      "mois": 3,
-     "factuel": "Réuni en Congrès à Versailles, le Parlement adopte par **780 voix contre 72** la révision constitutionnelle inscrivant à l'article 34 que « la loi détermine les conditions dans lesquelles s'exerce la liberté garantie à la femme d'avoir recours à une interruption volontaire de grossesse ». La France devient le premier pays au monde à inscrire explicitement cette liberté dans sa Constitution.",
-     "critique": "Avancée saluée — même si le fil rappelle l'opposition passée de Yaël Braun-Pivet à cette constitutionnalisation et la récupération d'image par le pouvoir.",
+     "factuel": "Réuni en Congrès à Versailles, le Parlement adopte par 780 voix contre 72 la révision constitutionnelle inscrivant à l'article 34 que « la loi détermine les conditions dans lesquelles s'exerce la liberté garantie à la femme d'avoir recours à une interruption volontaire de grossesse ». La France devient le premier pays au monde à inscrire explicitement cette liberté dans sa Constitution.",
+     "critique": "Avancée saluée — malgré l'opposition passée de Yaël Braun-Pivet à cette constitutionnalisation et la récupération d'image par le pouvoir.",
      "sources": [
       {
        "nom": "Assemblée nationale — adoption par le Parlement réuni en Congrès",
@@ -3249,7 +3281,7 @@ window.DONNEES = {
      "precision": "jour",
      "transverse": false,
      "mois": 3,
-     "factuel": "Macron remet à l'Élysée la grand-croix de la Légion d'honneur (plus haute dignité) au patron de LVMH Bernard Arnault, première fortune de France, en présence de Beyoncé, Jay-Z, Elon Musk et Jeff Koons. « Vous êtes plus qu'un chef d'entreprise, vous êtes un ambassadeur du pays. »",
+     "factuel": "Macron remet à l'Élysée la grand-croix de la Légion d'honneur (plus haute dignité) au patron de LVMH Bernard Arnault. « Vous êtes plus qu'un chef d'entreprise, vous êtes un ambassadeur du pays. »",
      "critique": "Consécration de l'homme le plus riche de France au moment où l'on sabre les budgets sociaux et écologiques — le « président des riches » en une image.",
      "sources": [
       {
@@ -3259,38 +3291,24 @@ window.DONNEES = {
      ]
     },
     {
-     "n": 8,
-     "titre": "La criminalisation des militants écologistes",
-     "date_libelle": "2024 (année)",
-     "debut": "2024-01-01",
-     "fin": "2024-12-31",
-     "precision": "annee",
-     "transverse": true,
-     "mois": null,
-     "factuel": "Le pouvoir poursuit sa rhétorique de l'« écoterrorisme », terme employé par Gérald Darmanin dès 2022-2023 à propos des mobilisations anti-bassines, pour disqualifier la contestation environnementale : menaces de dissolution, poursuites judiciaires, surveillance des collectifs — dans le prolongement de la dissolution des Soulèvements de la Terre, prononcée en juin 2023 et **annulée par le Conseil d'État le 9 novembre 2023**.\n\n*⚠️ Réserve de sourçage — Cette fiche est une **synthèse thématique** couvrant l'année entière, et non un fait daté. Elle s'appuie sur une source relative à un événement de 2023 (Sainte-Soline), faute d'un document de référence unique documentant la continuité de cette doctrine sur 2024. Elle est conservée pour la cohérence du fil, mais son statut diffère des autres fiches : à considérer comme une lecture d'ensemble, au même titre que la fiche « lepénisation du débat » de 2021.*",
-     "critique": "Assimilation de la désobéissance civile écologiste au terrorisme, arme de délégitimation d'un mouvement dérangeant. L'annulation de la dissolution par la plus haute juridiction administrative constitue le désaveu le plus net de cette doctrine.",
-     "sources": [
-      {
-       "nom": "Wikipédia — Manifestation du 25 mars 2023 à Sainte-Soline (sourcé ; origine de la doctrine « écoterrorisme »)",
-       "lien": "https://fr.wikipedia.org/wiki/Manifestation_du_25_mars_2023_%C3%A0_Sainte-Soline"
-      }
-     ]
-    },
-    {
      "n": 9,
      "titre": "Gaza : l'alignement pro-israélien du pouvoir",
-     "date_libelle": "06/05/2024",
+     "date_libelle": "06/05/2024, puis 06/10/2024",
      "debut": "2024-05-06",
      "fin": "2024-05-06",
      "precision": "jour",
      "transverse": false,
      "mois": 5,
-     "factuel": "Au 38e dîner du CRIF (6 mai), Gabriel Attal récuse « les leçons de morale de certains, bien au chaud, qui expliquent à la société israélienne qu'ils surréagissent », et vise nommément LFI. La présidente de l'Assemblée Yaël Braun-Pivet multiplie les prises de position pro-israéliennes (« il ne faut pas désarmer Israël »), dans un silence pointé sur les journalistes et humanitaires tués à Gaza.",
-     "critique": "Alignement de l'exécutif et de la présidence de l'Assemblée. NB : le fil reproche aussi une « abstention de la France à l'ONU » — non confirmée, la France ayant voté pour la résolution du 18 septembre 2024 exigeant la fin de l'occupation.",
+     "factuel": "Au 38e dîner du CRIF (6 mai), Gabriel Attal déclare : « on a du mal à entendre les leçons de morale de certains qu'on entend, bien au chaud, expliquer à la société israélienne qu'ils sur-réagissent », et vise nommément les élus de La France insoumise et son leader. Cinq mois plus tard, le 6 octobre, sur BFMTV, au lendemain de l'appel d'Emmanuel Macron à cesser les livraisons d'armes utilisées à Gaza, la présidente de l'Assemblée Yaël Braun-Pivet prend le contre-pied du président : « il ne faut pas désarmer Israël », l'État hébreu devant selon elle « être en capacité de se défendre ».",
+     "critique": "Alignement de l'exécutif et de la présidence de l'Assemblée, y compris en désaccord ouvert avec Macron lui-même sur les livraisons d'armes.",
      "sources": [
       {
-       "nom": "Le JDD (dîner du CRIF)",
-       "lien": "https://www.lejdd.fr/politique/au-diner-du-crif-gabriel-attal-alerte-contre-la-barbarie-islamiste-visage-contemporain-de-lantisemitisme-144903"
+       "nom": "info.gouv.fr — discours intégral de Gabriel Attal au dîner du CRIF",
+       "lien": "https://www.info.gouv.fr/actualite/38eme-diner-annuel-du-crif-discours-de-gabriel-attal"
+      },
+      {
+       "nom": "franceinfo — Braun-Pivet, « il ne faut pas désarmer Israël »",
+       "lien": "https://www.franceinfo.fr/monde/proche-orient/guerre/guerre-au-proche-orient-il-ne-faut-pas-desarmer-israel-previent-yael-braun-pivet-apres-les-propos-d-emmanuel-macron_6822011.html"
       }
      ]
     },
@@ -3322,11 +3340,15 @@ window.DONNEES = {
      "transverse": false,
      "mois": 6,
      "factuel": "Aux européennes du 9 juin, la liste RN de Jordan Bardella arrive largement en tête avec **31,37 %** et 30 sièges — un record pour le parti —, tandis que la liste Renaissance de Valérie Hayer s'effondre à **14,60 %** et 13 sièges. La participation s'établit à 51,49 %, en hausse de près de 1,4 point par rapport à 2019. Le soir même, Macron dissout l'Assemblée nationale. Selon Le Monde (14 juin), il confie à un proche : « J'ai lancé ma grenade dégoupillée dans les jambes [des oppositions]. »",
-     "critique": "Pari irresponsable dénoncé dans le fil : au lieu de faire barrage à l'extrême droite, la dissolution lui déroule le tapis rouge — un président qui se croit stratège et déstabilise le pays.",
+     "critique": "Pari irresponsable : au lieu de faire barrage à l'extrême droite, la dissolution lui déroule le tapis rouge — un président qui se croit stratège et déstabilise le pays.",
      "sources": [
       {
        "nom": "Public Sénat",
        "lien": "https://www.publicsenat.fr/actualites/politique/europeennes-2024-jordan-bardella-loin-devant-avec-315-un-record-pour-le-rn"
+      },
+      {
+       "nom": "Le Soir (grenade dégoupillée)",
+       "lien": "https://www.lesoir.be/595361/article/2024-06-16/je-leur-ai-balance-ma-grenade-degoupillee-dans-les-jambes-emmanuel-macron-ravi"
       }
      ]
     },
@@ -3339,7 +3361,7 @@ window.DONNEES = {
      "precision": "jour",
      "transverse": false,
      "mois": 6,
-     "factuel": "Le 26 juin, la Cour de cassation rejette le pourvoi d'Alexandre Benalla contre l'arrêt de la cour d'appel de Paris du 29 septembre 2023 : sa condamnation à trois ans de prison dont un an ferme (violences du 1er mai 2018 et usage frauduleux de passeport diplomatique) devient définitive. **Il n'ira pas en prison pour autant** : la cour d'appel avait aménagé la partie ferme de la peine, dont les modalités d'exécution restent à fixer par un juge d'application.",
+     "factuel": "Le 26 juin, la Cour de cassation rejette le pourvoi d'Alexandre Benalla contre l'arrêt de la cour d'appel de Paris du 29 septembre 2023 : sa condamnation à trois ans de prison dont un an ferme (violences du 1er mai 2018 et usage frauduleux de passeport diplomatique) devient définitive. Il n'ira pas en prison pour autant : la cour d'appel avait aménagé la partie ferme de la peine, dont les modalités d'exécution restent à fixer par un juge d'application.",
      "critique": "Épilogue judiciaire du scandale fondateur des dérives du quinquennat — six ans après. L'aménagement de la peine ferme prive l'épilogue de sa portée symbolique : la condamnation est définitive, la sanction reste virtuelle.",
      "sources": [
       {
@@ -3357,7 +3379,7 @@ window.DONNEES = {
      "precision": "jour",
      "transverse": false,
      "mois": 7,
-     "factuel": "Au terme d'une campagne éclair (trois semaines, la plus courte possible, imposée par le calendrier de Macron), le second tour du 7 juillet place, contre les pronostics, le Nouveau Front populaire en tête. **Répartition définitive des sièges : NFP 182, Ensemble 163, RN et alliés 143, Les Républicains 39** (66 avec leurs alliés divers droite). Dans le détail : LFI 71, PS 64 pour le NFP ; Renaissance 98, MoDem 34, Horizons 26 pour Ensemble ; RN seul 126. Aucune majorité absolue ne se dégage : l'Assemblée est partagée en trois blocs. Ce résultat doit beaucoup au front républicain et aux quelque 200 désistements entre les deux tours.\n\n*⚠️ Correction — La version précédente donnait les fourchettes des estimations du soir du scrutin (172-192 / 150-170 / 132-152) et non les résultats définitifs. C'est exactement le piège identifié après l'épisode de l'abstention des municipales 2020. Les chiffres définitifs sont désormais affichés. À noter : le décompte du NFP varie de 178 à 193 selon les sources, en fonction du rattachement de quelques élus divers gauche — 182 est le décompte le plus couramment retenu.*",
+     "factuel": "Au terme d'une campagne éclair (trois semaines, la plus courte possible, imposée par le calendrier de Macron), le second tour du 7 juillet place, contre les pronostics, le Nouveau Front populaire en tête.",
      "critique": "Désaveu clair du pouvoir et échec du RN annoncé favori ; la gauche unie arrive première, ce qui aurait dû ouvrir la voie à un gouvernement de gauche.",
      "sources": [
       {
@@ -3415,7 +3437,7 @@ window.DONNEES = {
      "precision": "periode",
      "transverse": false,
      "mois": 9,
-     "factuel": "Après près de deux mois de vacance, Macron nomme Michel Barnier (LR) Premier ministre le 5 septembre, puis forme (21 septembre) un gouvernement de droite dure — le plus à droite depuis quarante ans selon le fil — avec Bruno Retailleau à l'Intérieur. Un gouvernement issu du parti arrivé troisième aux législatives, imposé contre le résultat des urnes et ne tenant que par la tolérance implicite du RN.",
+     "factuel": "Après près de deux mois de vacance, Macron nomme Michel Barnier (LR) Premier ministre le 5 septembre, puis forme (21 septembre) un gouvernement de droite dure avec Bruno Retailleau à l'Intérieur. Un gouvernement issu du parti arrivé troisième aux législatives, imposé contre le résultat des urnes et ne tenant que par la tolérance implicite du RN.",
      "critique": "Inversion démocratique : le camp désavoué reste au pouvoir avec l'appui de fait de l'extrême droite, désormais arbitre de la vie parlementaire.",
      "sources": [
       {
@@ -3433,12 +3455,12 @@ window.DONNEES = {
      "precision": "mois",
      "transverse": false,
      "mois": 10,
-     "factuel": "Bruno Retailleau annonce (15 octobre) une nouvelle loi immigration pour 2025, au durcissement marqué : allongement de la rétention (90 à 210 jours), délit de séjour irrégulier, restrictions sur le regroupement familial, l'AME et les allocations. Le constitutionnaliste Nicolas Hervieu relève qu'il s'agirait de la neuvième réforme du droit des étrangers en dix-sept ans.",
+     "factuel": "Bruno Retailleau annonce (15 octobre) une nouvelle loi immigration pour 2025, au durcissement marqué : allongement de la rétention (90 à 210 jours), délit de séjour irrégulier, restrictions sur le regroupement familial, l'AME et les allocations.",
      "critique": "Surenchère permanente sur l'immigration, dictée par l'agenda de l'extrême droite, moins d'un an après la loi de décembre 2023.",
      "sources": [
       {
-       "nom": "Le JDD",
-       "lien": "https://www.lejdd.fr/politique/que-comporte-la-future-loi-immigration-presentee-par-bruno-retailleau-150957"
+       "nom": "Public Sénat — un nouveau texte immigration, face à une majorité divisée",
+       "lien": "https://www.publicsenat.fr/actualites/politique/nouveau-texte-immigration-face-a-une-majorite-divisee-bruno-retailleau-pret-a-jouer-lopinion"
       }
      ]
     },

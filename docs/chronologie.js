@@ -1,6 +1,6 @@
 window.DONNEES = {
- "genere_le": "2026-07-20",
- "total_fiches": 180,
+ "genere_le": "2026-07-22",
+ "total_fiches": 192,
  "textes": {
   "titre": "Machronologie",
   "titre_balise": "**Mac**h**ron**ologie",
@@ -11,22 +11,48 @@ window.DONNEES = {
   {
    "annee": 2017,
    "note": "Du personnel de droite et les premières décisions antisociales et antimigrants.",
-   "total": 23,
+   "total": 26,
    "densite": [
     0,
     0,
     0,
     0,
-    4,
-    7,
+    5,
+    8,
     1,
     2,
-    2,
-    2,
+    3,
+    3,
     0,
-    5
+    4
    ],
    "fiches": [
+    {
+     "n": 0,
+     "titre": "Premier au 1er tour des présidentielles 2017",
+     "date_libelle": "01/05/2017",
+     "debut": "2017-05-01",
+     "fin": "2017-05-01",
+     "precision": "jour",
+     "transverse": false,
+     "mois": 5,
+     "factuel": "Le 23 avril 2017, porté par un soutien médiatique quasi unanime et aidé par l'affaire Fillon qui plombe la droite classique, Emmanuel Macron se qualifie pour le second tour avec Marine Le Pen avec 24.01% des voix.",
+     "critique": "Campagne largement biaisée par les nombreux portraits élogieux du jeune candidat.",
+     "sources": [
+      {
+       "nom": "Ministère de l'intérieur — résultats du 1er tour 2017",
+       "lien": "https://www.interieur.gouv.fr/Archives/Archives-elections/Election-presidentielle-2017/Election-presidentielle-2017-resultats-globaux-du-premier-tour"
+      },
+      {
+       "nom": "Acrimed — « La presse est unanime : Emmanuel Macron » (13/07/2016)",
+       "lien": "https://www.acrimed.org/La-presse-est-unanime-Emmanuel-Macron"
+      },
+      {
+       "nom": "Acrimed — « Quand la presse portait Macron au pinacle – et au pouvoir » (24/06/2019)",
+       "lien": "https://www.acrimed.org/Quand-la-presse-portait-Macron-au-pinacle-et-au"
+      }
+     ]
+    },
     {
      "n": 1,
      "titre": "« Je n'irai pas chercher les électeurs de Mélenchon »",
@@ -130,7 +156,7 @@ window.DONNEES = {
      "precision": "jour",
      "transverse": false,
      "mois": 6,
-     "factuel": "Quelques heures après l'annonce par Donald Trump du retrait des États-Unis de l'accord de Paris, Macron s'exprime depuis l'Élysée, le soir du 1er juin. Il juge que le président américain « commet là une erreur pour les intérêts de son pays et de son peuple et une faute pour l'avenir de notre planète », affirme que la France « ne renégociera pas un accord moins ambitieux » et lance : « Sur le climat, il n'y a pas de plan B. Car il n'y a pas de planète B. » Il appelle les scientifiques, ingénieurs et entrepreneurs déçus par la décision américaine à venir travailler en France, où ils trouveront « une seconde patrie ».\n\nIl enchaîne alors — fait sans précédent pour un chef de l'État français s'exprimant depuis l'Élysée — sur une déclaration **en anglais**, qu'il conclut en détournant le slogan de campagne de Trump : *« Make our planet great again. »* La formule fait le tour du monde en quelques heures.",
+     "factuel": "Quelques heures après l'annonce par Donald Trump du retrait des États-Unis de l'accord de Paris, Macron s'exprime depuis l'Élysée, le soir du 1er juin. Il juge que le président américain « commet là une erreur pour les intérêts de son pays et de son peuple et une faute pour l'avenir de notre planète », affirme que la France « ne renégociera pas un accord moins ambitieux » et lance : « Sur le climat, il n'y a pas de plan B. Car il n'y a pas de planète B. »\n\nIl enchaîne alors — fait sans précédent pour un chef de l'État français s'exprimant depuis l'Élysée — sur une déclaration en anglais, qu'il conclut en détournant le slogan de campagne de Trump : « Make our planet great again. » La formule fait le tour du monde en quelques heures.",
      "critique": "Sommet de la communication présidentielle : une formule en anglais, virale, qui installe Macron en champion mondial du climat face à Trump. C'est à cette promesse que sera ensuite mesuré chaque reniement.",
      "sources": [
       {
@@ -229,6 +255,32 @@ window.DONNEES = {
     },
     {
      "n": 11,
+     "titre": "« Les gens qui réussissent et les gens qui ne sont rien »",
+     "date_libelle": "29/06/2017",
+     "debut": "2017-06-29",
+     "fin": "2017-06-29",
+     "precision": "jour",
+     "transverse": false,
+     "mois": 6,
+     "factuel": "Lors de l'inauguration de Station F, Macron improvise un discours devant un public d'entrepreneurs et déclare : « Une gare, c'est un lieu où on croise les gens qui réussissent et les gens qui ne sont rien. Parce que c'est un lieu où on passe. Parce que c'est un lieu qu'on partage. »",
+     "critique": "Avec les « fainéants » (fiche 17) et le kwassa-kwassa (fiche 5), la troisième « petite phrase » fondatrice de la première année. Elle sera l'une des formules les plus citées par les Gilets jaunes en 2018 comme emblème du mépris présidentiel.",
+     "sources": [
+      {
+       "nom": "Wikipédia — « Les gens qui réussissent et les gens qui ne sont rien » (article dédié, sourcé)",
+       "lien": "https://fr.wikipedia.org/wiki/Les_gens_qui_r%C3%A9ussissent_et_les_gens_qui_ne_sont_rien"
+      },
+      {
+       "nom": "Élysée — vidéo du discours d'inauguration de Station F (29/06/2017)",
+       "lien": "https://www.elysee.fr/videos/discours-d-emmanuel-macron-lors-de-l-inauguration-de-la-station-f"
+      },
+      {
+       "nom": "Le Figaro — « Emmanuel Macron évoque les \"gens qui ne sont rien\" et suscite les critiques » (02/07/2017)",
+       "lien": "https://www.lefigaro.fr/politique/le-scan/2017/07/02/25001-20170702ARTFIG00098-emmanuel-macron-evoque-les-gens-qui-ne-sont-rien-et-suscite-les-critiques.php"
+      }
+     ]
+    },
+    {
+     "n": 12,
      "titre": "Pas d'interview du 14 Juillet : une « pensée complexe »",
      "date_libelle": "30/06/2017",
      "debut": "2017-06-30",
@@ -246,7 +298,7 @@ window.DONNEES = {
      ]
     },
     {
-     "n": 12,
+     "n": 13,
      "titre": "Donald Trump invité d'honneur du défilé du 14 Juillet",
      "date_libelle": "14/07/2017",
      "debut": "2017-07-14",
@@ -254,17 +306,51 @@ window.DONNEES = {
      "precision": "jour",
      "transverse": false,
      "mois": 7,
-     "factuel": "Macron reçoit Donald Trump comme invité d'honneur du défilé militaire des Champs-Élysées, à l'occasion du centenaire de l'entrée en guerre des États-Unis en 1917.",
+     "factuel": "Macron reçoit Donald Trump comme invité d'honneur du défilé militaire des Champs-Élysées, à l'occasion du centenaire de l'entrée en guerre des États-Unis en 1917. L'accueil est particulièrement soigné : cérémonie d'honneurs militaires aux Invalides, tête-à-tête puis entretien élargi à l'Élysée, conférence de presse commune, et dîner offert par les Macron au couple Trump au restaurant Jules Verne de la Tour Eiffel — un « dîner entre amis » selon les mots de Macron.",
      "critique": "Accueil fastueux critiqué à quelques semaines du retrait américain de l'accord de Paris sur le climat.",
      "sources": [
       {
-       "nom": "Élysée",
+       "nom": "France 24 — « 14-Juillet : le programme de la visite de Donald Trump à Paris » (13/07/2017)",
+       "lien": "https://www.france24.com/fr/20170713-14-juillet-programme-donald-trump-visite-paris-emmanuel-macron-defile"
+      },
+      {
+       "nom": "INA — « Donald Trump au garde-à-vous pour le défilé du 14 juillet 2017 »",
+       "lien": "https://www.ina.fr/ina-eclaire-actu/defile-militaire-14-juillet-2017-donald-trump-emmanuel-macron-france-etats-unis"
+      },
+      {
+       "nom": "Élysée — communiqué Fête nationale du 14 juillet 2017",
        "lien": "https://www.elysee.fr/en/emmanuel-macron/2017/06/28/fete-nationale-du-14-juillet-2017-communique-de-presse.fr"
       }
      ]
     },
     {
-     "n": 13,
+     "n": 14,
+     "titre": "La coupe brutale des contrats aidés",
+     "date_libelle": "09/08 → 21/09/2017",
+     "debut": "2017-09-21",
+     "fin": "2017-09-21",
+     "precision": "jour",
+     "transverse": false,
+     "mois": 9,
+     "factuel": "Début août, les préfectures notifient aux collectivités une réduction drastique des contrats aidés. Le 9 août, aux questions au gouvernement, la ministre du Travail Muriel Pénicaud assume : les contrats aidés sont « extrêmement coûteux pour la nation », « pas efficaces dans la lutte contre le chômage » et « pas un tremplin pour l'insertion professionnelle ». Le gouvernement plafonne l'année à 293 000 contrats, contre environ 459 000 recrutements en 2016 — une chute de 36 % selon la Dares, qui estimera qu'elle a contribué à une hausse de 55 000 demandeurs d'emploi en 2017. Le 21 septembre, Édouard Philippe annonce 200 000 contrats financés en 2018, réservés au secteur non marchand avec un taux de prise en charge ramené à 50 % en moyenne.",
+     "critique": "Décision estivale, sans concertation, révélée aux élus par les préfectures en pleine préparation de la rentrée : associations, communes et outre-mer encaissent le choc.",
+     "sources": [
+      {
+       "nom": "Europe 1 / AFP — « Muriel Pénicaud : les contrats aidés sont \"coûteux\" et \"inefficaces\" contre le chômage » (09/08/2017)",
+       "lien": "https://www.europe1.fr/economie/muriel-penicaud-les-contrats-aides-sont-couteux-et-inefficaces-contre-le-chomage-3407534"
+      },
+      {
+       "nom": "Handicap.fr / AFP — « Emploi : 200 000 contrats aidés seront financés en 2018 » (21/09/2017)",
+       "lien": "https://informations.handicap.fr/a-contrat-aides-edouard-philippe-10192.php"
+      },
+      {
+       "nom": "Maire-Info — « Les contrats aidés en forte baisse en 2017 et 2018 » (étude Dares, 04/12/2018)",
+       "lien": "https://www.maire-info.com/emploi/les-contrats-aides-en-forte-baisse-en-2017-et-2018-article2-22493"
+      }
+     ]
+    },
+    {
+     "n": 15,
      "titre": "Une brochette de ministres à l'université d'été du Medef",
      "date_libelle": "29-30/08/2017",
      "debut": "2017-08-29",
@@ -273,7 +359,7 @@ window.DONNEES = {
      "transverse": false,
      "mois": 8,
      "factuel": "Alors que s'ouvre la bataille des ordonnances travail, l'essentiel des poids lourds du gouvernement se rend à l'université d'été du Medef, sur le campus d'HEC à Jouy-en-Josas : Bruno Le Maire (Économie), Gérald Darmanin (Comptes publics), Benjamin Griveaux, Florence Parly (Armées), Jean-Yves Le Drian (Affaires étrangères), Jean-Michel Blanquer (Éducation nationale)… Emmanuel Macron et Édouard Philippe, eux, s'abstiennent d'y paraître.",
-     "critique": "Présence gouvernementale massive au raout patronal, lue comme le signe d'un alignement sur les intérêts du Medef. Le décompte varie selon les sources : Pierre Gattaz s'est félicité de « 12 ministres », une partie de la presse en a retenu 11 — le chiffre exact n'est pas établi, d'où la formulation générique retenue ici.",
+     "critique": "Présence gouvernementale massive au raout patronal, lue comme le signe d'un alignement sur les intérêts du Medef.",
      "sources": [
       {
        "nom": "L'Usine Nouvelle — « Rentrée politique à l'université d'été du Medef »",
@@ -282,7 +368,7 @@ window.DONNEES = {
      ]
     },
     {
-     "n": 14,
+     "n": 16,
      "titre": "Ordonnances travail : le plafonnement des indemnités prud'homales",
      "date_libelle": "31/08/2017",
      "debut": "2017-08-31",
@@ -304,7 +390,7 @@ window.DONNEES = {
      ]
     },
     {
-     "n": 15,
+     "n": 17,
      "titre": "« Je ne céderai rien aux fainéants »",
      "date_libelle": "08/09/2017",
      "debut": "2017-09-08",
@@ -322,7 +408,7 @@ window.DONNEES = {
      ]
     },
     {
-     "n": 16,
+     "n": 18,
      "titre": "Rentrée : des milliers d'enfants handicapés sans AVS",
      "date_libelle": "12/09/2017",
      "debut": "2017-09-12",
@@ -340,7 +426,7 @@ window.DONNEES = {
      ]
     },
     {
-     "n": 17,
+     "n": 19,
      "titre": "La baisse de 5 euros des aides personnelles au logement",
      "date_libelle": "01/10/2017",
      "debut": "2017-10-01",
@@ -362,7 +448,7 @@ window.DONNEES = {
      ]
     },
     {
-     "n": 18,
+     "n": 20,
      "titre": "Suppression de l'ISF, remplacé par l'IFI",
      "date_libelle": "20/10/2017 → 30/12/2017",
      "debut": "2017-10-20",
@@ -384,7 +470,37 @@ window.DONNEES = {
      ]
     },
     {
-     "n": 19,
+     "n": 21,
+     "titre": "Loi SILT : l'état d'urgence entre dans le droit commun",
+     "date_libelle": "30/10/2017",
+     "debut": "2017-10-30",
+     "fin": "2017-10-30",
+     "precision": "jour",
+     "transverse": false,
+     "mois": 10,
+     "factuel": "La loi n° 2017-1510 « renforçant la sécurité intérieure et la lutte contre le terrorisme » (SILT) est promulguée le 30 octobre 2017 ; l'état d'urgence, en vigueur depuis les attentats du 13 novembre 2015, prend fin le lendemain. La loi transpose dans le droit commun ses principales mesures, confiées à l'autorité administrative et non au juge judiciaire : périmètres de protection avec contrôles et palpations, fermeture administrative de lieux de culte (jusqu'à six mois), mesures individuelles de contrôle et de surveillance (MICAS, héritières de l'assignation à résidence, avec pointage et interdiction de quitter un périmètre, douze mois au maximum), et « visites domiciliaires » avec saisies sur autorisation du juge des libertés.",
+     "critique": "Bascule durable de l'exception dans le droit ordinaire, contre laquelle la CNCDH mettait en garde dès 2016 (« le régime d'exception, qui doit rester provisoire, ne peut devenir la règle »). Pour le constitutionnaliste Dominique Rousseau, la loi ancre « la prévalence du pouvoir administratif sur le pouvoir judiciaire ». Les mesures, initialement bornées au 31 décembre 2020 par une clause de revoyure, seront prorogées puis reconduites et renforcées par la loi du 30 juillet 2021.",
+     "sources": [
+      {
+       "nom": "Légifrance — loi n° 2017-1510 du 30 octobre 2017",
+       "lien": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000035932811"
+      },
+      {
+       "nom": "Wikipédia — Loi renforçant la sécurité intérieure et la lutte contre le terrorisme (sourcé Le Monde, Libération, JO)",
+       "lien": "https://fr.wikipedia.org/wiki/Loi_renfor%C3%A7ant_la_s%C3%A9curit%C3%A9_int%C3%A9rieure_et_la_lutte_contre_le_terrorisme"
+      },
+      {
+       "nom": "France 24 — « La loi antiterroriste votée à une large majorité en dépit des controverses » (03/10/2017)",
+       "lien": "https://www.france24.com/fr/20171003-france-loi-antiterroriste-votee-large-majorite-depit-controverses"
+      },
+      {
+       "nom": "CNCDH — dossier « Terrorisme »",
+       "lien": "https://www.cncdh.fr/presentation/themes-daction/etat-de-droit-et-libertes/terrorisme"
+      }
+     ]
+    },
+    {
+     "n": 22,
      "titre": "La « circulaire Collomb » : recenser les migrants dans l'hébergement d'urgence",
      "date_libelle": "12/12/2017",
      "debut": "2017-12-12",
@@ -393,7 +509,7 @@ window.DONNEES = {
      "transverse": false,
      "mois": 12,
      "factuel": "Le ministre de l'Intérieur Gérard Collomb et le ministre de la Cohésion des territoires Jacques Mézard adressent aux préfets une circulaire leur demandant de constituer des « équipes mobiles » — composées d'agents de préfecture et de l'Office français de l'immigration et de l'intégration — chargées de se rendre dans les structures d'hébergement d'urgence et les hôtels sociaux pour y recenser les personnes accueillies selon leur droit au séjour. Saisi par les associations, le Conseil d'État refuse le 20 février 2018 de suspendre le texte, mais précise qu'il ne confère « aucun pouvoir de contrainte » aux équipes, qui ne peuvent s'entretenir avec les personnes hébergées que sur la base du volontariat.",
-     "critique": "Rupture avec le principe d'inconditionnalité de l'accueil d'urgence : le lieu de mise à l'abri devient un point de contact avec l'administration chargée de l'éloignement. Les associations dénoncent une remise en cause de leurs missions d'aide sociale ; la contestation vient aussi d'intellectuels proches de Macron. L'encadrement prononcé par le Conseil d'État valide la logique du texte tout en en retirant le caractère contraignant.",
+     "critique": "Rupture avec le principe d'inconditionnalité de l'accueil d'urgence : le lieu de mise à l'abri devient un point de contact avec l'administration chargée de l'éloignement. Les associations dénoncent une remise en cause de leurs missions d'aide sociale.",
      "sources": [
       {
        "nom": "franceinfo — « Le Conseil d'État refuse de suspendre la circulaire Collomb » (20/02/2018)",
@@ -406,25 +522,7 @@ window.DONNEES = {
      ]
     },
     {
-     "n": 20,
-     "titre": "« Un abandon sans précédent des valeurs humanistes de la République »",
-     "date_libelle": "décembre 2017",
-     "debut": "2017-12-01",
-     "fin": "2017-12-31",
-     "precision": "mois",
-     "transverse": false,
-     "mois": 12,
-     "factuel": "Alors que le gouvernement prépare pour avril 2018 une loi « immigration-asile » (délai d'instruction des demandes ramené de quatorze à six mois, allongement de la durée de rétention, +400 places en CRA), Véronique Fayet (présidente du Secours catholique) et Jean-Michel Hitter (président de la Fédération de l'Entraide protestante) adressent à Emmanuel Macron une lettre dénonçant « un abandon sans précédent des valeurs et traditions humanistes de la République ». Ils reprochent au gouvernement d'avoir avancé aussi loin sur le contenu d'une réforme aussi sensible « sans jamais prendre la peine d'ouvrir une véritable concertation » avec la société civile.",
-     "critique": "Contraste frappant avec les discours humanistes de Macron à l'ONU quelques mois plus tôt. La lettre intervient dans la foulée immédiate de la circulaire Collomb (fiche 19) : c'est la conjonction des deux qui fait basculer une partie du monde associatif chrétien dans l'opposition frontale.",
-     "sources": [
-      {
-       "nom": "Aleteia — « Le Secours catholique s'inquiète de la grande loi sur l'immigration et l'asile » (21/12/2017)",
-       "lien": "https://fr.aleteia.org/2017/12/21/le-secours-catholique-sinquiete-de-la-grande-loi-sur-limmigration-et-lasile/"
-      }
-     ]
-    },
-    {
-     "n": 21,
+     "n": 23,
      "titre": "L'entretien complaisant avec Laurent Delahousse",
      "date_libelle": "17/12/2017",
      "debut": "2017-12-17",
@@ -442,7 +540,7 @@ window.DONNEES = {
      ]
     },
     {
-     "n": 22,
+     "n": 24,
      "titre": "Le prélèvement forfaitaire unique : le capital plafonné à 30 %",
      "date_libelle": "21-31/12/2017",
      "debut": "2017-12-21",
@@ -450,7 +548,7 @@ window.DONNEES = {
      "precision": "periode",
      "transverse": false,
      "mois": 12,
-     "factuel": "L'article 28 de la loi de finances pour 2018, votée définitivement le 21 décembre 2017 et publiée au Journal officiel le 31 décembre, crée le prélèvement forfaitaire unique (PFU), dit « flat tax ». À compter du 1er janvier 2018, les revenus du capital — dividendes, intérêts, plus-values de cession de titres, produits d'assurance-vie au-delà de 150 000 euros — sont taxés à un taux proportionnel unique de 30 % (12,8 % d'impôt sur le revenu et 17,2 % de prélèvements sociaux), en lieu et place du barème progressif. L'option pour le barème reste ouverte si elle est plus favorable.",
+     "factuel": "L'article 28 de la loi de finances pour 2018, votée définitivement le 21 décembre 2017, crée le prélèvement forfaitaire unique (PFU), dit « flat tax ». À compter du 1er janvier 2018, les revenus du capital — dividendes, intérêts, plus-values de cession de titres, produits d'assurance-vie au-delà de 150 000 euros — sont taxés à un taux proportionnel unique de 30 % (12,8 % d'impôt sur le revenu et 17,2 % de prélèvements sociaux), en lieu et place du barème progressif.",
      "critique": "Second pilier du choc fiscal de la première année, avec la suppression de l'ISF votée dans le même budget : les revenus du travail restent soumis au barème progressif jusqu'à 45 %, ceux du capital sont désormais plafonnés à 30 %. C'est le couple ISF/PFU que France Stratégie évaluera en 2021 sans trouver d'effet sur l'investissement.",
      "sources": [
       {
@@ -460,7 +558,7 @@ window.DONNEES = {
      ]
     },
     {
-     "n": 23,
+     "n": 25,
      "titre": "L'impôt sur les sociétés ramené de 33,3 % à 25 %",
      "date_libelle": "30/12/2017",
      "debut": "2017-12-30",
@@ -490,19 +588,19 @@ window.DONNEES = {
   {
    "annee": 2018,
    "note": "Année cruciale pour les gilets jaunes et les affaires Benalla.",
-   "total": 20,
+   "total": 25,
    "densite": [
     2,
     0,
     2,
     3,
-    0,
     1,
     3,
     3,
-    1,
+    3,
+    2,
     0,
-    1,
+    2,
     3
    ],
    "fiches": [
@@ -515,7 +613,7 @@ window.DONNEES = {
      "precision": "annee",
      "transverse": true,
      "mois": null,
-     "factuel": "Engagée en 2018, la suppression de la taxe d'habitation sur les résidences principales se fait par paliers : abattement de 30 % en 2018, 65 % en 2019 et suppression totale en 2020 pour 80 % des ménages ; puis 30 % en 2021, 65 % en 2022 et suppression complète en 2023 pour les 20 % de ménages les plus aisés. Environ 25 millions de foyers sont concernés ; la perte de recettes, de l'ordre d'une vingtaine de milliards d'euros pour les collectivités territoriales, est compensée par l'État. L'INSEE évalue à 17,4 milliards d'euros constants le supplément de revenu disponible des ménages résultant de la réforme.",
+     "factuel": "Engagée en 2018, la suppression de la taxe d'habitation sur les résidences principales se fait par paliers. Environ 25 millions de foyers sont concernés ; la perte de recettes, de l'ordre d'une vingtaine de milliards d'euros pour les collectivités territoriales, est compensée par l'État. L'INSEE évalue à 17,4 milliards d'euros constants le supplément de revenu disponible des ménages résultant de la réforme.",
      "critique": "Présentée comme une mesure de pouvoir d'achat, elle est fortement anti-redistributive : les 10 % de ménages les moins aisés y gagnent en moyenne 80 euros par an, les ménages médians 370 euros, et les 10 % les plus aisés 870 euros. Elle prive en outre les communes de leur principale ressource propre au profit d'une compensation d'État — la perte d'autonomie fiscale que les associations d'élus dénoncent depuis.",
      "sources": [
       {
@@ -541,8 +639,8 @@ window.DONNEES = {
      "precision": "jour",
      "transverse": false,
      "mois": 1,
-     "factuel": "Martine Landry, bénévole d'Amnesty International et de l'Anafé, âgée de 73 ans, est poursuivie pour avoir « facilité l'entrée » de deux mineurs guinéens en les accompagnant à pied du poste-frontière italien au poste-frontière français. Sa comparution, initialement fixée au 8 janvier 2018 à Nice, sera renvoyée trois fois (14 février, 11 avril, puis 30 mai). Le parquet finit par requérir la relaxe et le tribunal correctionnel de Nice la relaxe le 13 juillet 2018. L'affaire fait écho aux poursuites contre l'agriculteur Cédric Herrou, condamné en appel en 2017.",
-     "critique": "Symbole de la criminalisation de la solidarité : le simple fait de tenir l'audience à quatre reprises constitue en soi une sanction, indépendamment de son issue. Le Conseil constitutionnel consacrera le « principe de fraternité » le 6 juillet 2018, neutralisant en partie le « délit de solidarité » ; la Cour de cassation annulera la condamnation d'Herrou le 12 décembre 2018.",
+     "factuel": "Martine Landry, bénévole d'Amnesty International et de l'Anafé, âgée de 73 ans, est poursuivie pour avoir « facilité l'entrée » de deux mineurs guinéens en les accompagnant à pied du poste-frontière italien au poste-frontière français. Sa comparution sera renvoyée trois fois avant que l tribunal correctionnel de Nice la relaxe le 13 juillet 2018, suivant la réquisition du parquet. L'affaire fait écho aux poursuites contre l'agriculteur Cédric Herrou, condamné en appel en 2017.",
+     "critique": "Le Conseil constitutionnel a consacré le « principe de fraternité » le 6 juillet 2018 — neutralisant en partie le « délit de solidarité ». Dans la foulée, la Cour de cassation a annulé le 12 décembre 2018 la condamnation d'Herrou, et renvoyé l'affaire devant la cour d'appel de Lyon (qui le relaxera en mai 2020).",
      "sources": [
       {
        "nom": "Amnesty International France — le parquet requiert la relaxe",
@@ -555,6 +653,18 @@ window.DONNEES = {
       {
        "nom": "Basta! — relaxe",
        "lien": "https://basta.media/Delit-de-solidarite-Justice-Relaxe-militante-Martine-Landry-Amnesty-international-fraternite-droit-refugies"
+      },
+      {
+       "nom": "Conseil constitutionnel — décision n° 2018-717/718 QPC du 6 juillet 2018 (consécration du principe de fraternité)",
+       "lien": "https://www.conseil-constitutionnel.fr/decision/2018/2018717_718QPC.htm"
+      },
+      {
+       "nom": "Euronews — « La condamnation du militant Cédric Herrou annulée par la Cour de cassation » (12/12/2018)",
+       "lien": "https://fr.euronews.com/2018/12/12/la-condamnation-du-militant-cedric-herrou-annulee-par-la-cour-de-cassation"
+      },
+      {
+       "nom": "Lyon Capitale — « Après sa victoire en cassation, Cédric Herrou renvoyé en appel à Lyon »",
+       "lien": "https://www.lyoncapitale.fr/justice/apres-sa-victoire-en-cassation-cedric-herrou-renvoye-en-appel-a-lyon"
       }
      ]
     },
@@ -653,6 +763,14 @@ window.DONNEES = {
       {
        "nom": "Gendarmerie nationale — RETEX officiel",
        "lien": "https://www.gendarmerie.interieur.gouv.fr/gendinfo/terrain/retex/retex-evacuation-de-la-zad-de-notre-dame-des-landes"
+      },
+      {
+       "nom": "Reporterre — « La Zad de Notre-Dame-des-Landes sous le choc de l'évacuation » (reportage en direct, 09/04/2018)",
+       "lien": "https://reporterre.net/La-Zad-de-Notre-Dame-des-Landes-sous-le-choc-de-l-evacuation"
+      },
+      {
+       "nom": "franceinfo — « Notre-Dame-des-Landes : évacuation sous tension » (09/04/2018)",
+       "lien": "https://www.franceinfo.fr/politique/notre-dame-des-landes/notre-dame-des-landes-evacuation-sous-tension_2697990.html"
       }
      ]
     },
@@ -669,13 +787,43 @@ window.DONNEES = {
      "critique": "Écart entre le discours rassurant et la réalité budgétaire, au cœur de la contestation hospitalière.",
      "sources": [
       {
-       "nom": "Europe 1",
+       "nom": "Europe 1 (17/04/2018)",
        "lien": "https://www.europe1.fr/societe/il-ny-a-pas-deconomies-sur-lhopital-assure-agnes-buzyn-3654323"
+      },
+      {
+       "nom": "Le Quotidien du Médecin — « 960 millions d'économies réclamés aux hôpitaux et cliniques » (30/04/2018)",
+       "lien": "https://www.lequotidiendumedecin.fr/hopital/960-millions-deconomies-reclames-aux-hopitaux-et-cliniques"
       }
      ]
     },
     {
      "n": 9,
+     "titre": "L'annonce de la fin de l'exit tax… dans Forbes",
+     "date_libelle": "01/05/2018",
+     "debut": "2018-05-01",
+     "fin": "2018-05-01",
+     "precision": "jour",
+     "transverse": false,
+     "mois": 5,
+     "factuel": "Dans un entretien publié le 1er mai par le magazine américain Forbes — qui le présente en « leader des marchés libres » —, Macron annonce la suppression dès 2019 de l'exit tax, impôt créé en 2011 pour dissuader l'exil fiscal des détenteurs de participations (taxation à 30 % des plus-values réalisées après le départ). À l'automne, le budget 2019 remplace la taxe par un dispositif anti-abus nettement restreint.",
+     "critique": "« Emmanuel Macron, \"président des riches\", acte II ? » titre France 24 : l'annonce est faite à la presse économique américaine, en pleine grève SNCF et grogne hospitalière, dans la continuité de la suppression de l'ISF, du PFU et de la baisse de l'IS votés l'année précédente.",
+     "sources": [
+      {
+       "nom": "France 24 — « En sonnant la fin de l'\"exit tax\", Emmanuel Macron soigne sa droite » (02/05/2018)",
+       "lien": "https://www.france24.com/fr/20180502-fin-exit-tax-emmanuel-macron-forbes-cadeau-exil-fiscal-start-up-nation-france"
+      },
+      {
+       "nom": "franceinfo — « On vous explique ce qu'est l'\"exit tax\" »",
+       "lien": "https://www.franceinfo.fr/politique/emmanuel-macron/on-vous-explique-ce-qu-est-l-exit-tax-cet-impot-sur-les-plus-values-dont-macron-ne-veut-plus_2733357.html"
+      },
+      {
+       "nom": "Euronews / Reuters — « France to replace \"Exit Tax\" on capital gains » (15/09/2018)",
+       "lien": "https://www.euronews.com/business/2018/09/15/france-to-replace-exit-tax-on-capital-gains-target-fiscal-cheats"
+      }
+     ]
+    },
+    {
+     "n": 10,
      "titre": "Aquarius : la France ne bouge pas",
      "date_libelle": "12/06/2018",
      "debut": "2018-06-12",
@@ -683,7 +831,7 @@ window.DONNEES = {
      "precision": "jour",
      "transverse": false,
      "mois": 6,
-     "factuel": "Après le refus de l'Italie de Salvini et de Malte d'accueillir l'Aquarius et ses 629 rescapés (secourus le 9 juin au large de la Libye), c'est l'Espagne qui ouvre le port de Valence — à 760 milles nautiques, soit plus de trois jours de navigation. Macron dénonce le « cynisme » et l'« irresponsabilité » de Rome, mais la France n'ouvre pas de port. Le gouvernement se justifie en invoquant l'absence de demande formelle de SOS Méditerranée et la règle maritime de la côte la plus proche, tout en affirmant que le navire aurait « évidemment » pu accoster si les côtes françaises avaient été les plus proches. La gauche dénonce un « silence coupable », relevant que les gestes d'accueil sont venus de Naples, d'Espagne et de Corse — pas de l'Élysée ni de Matignon.",
+     "factuel": "Après le refus de l'Italie de Salvini et de Malte d'accueillir l'Aquarius et ses 629 rescapés (secourus le 9 juin au large de la Libye), c'est l'Espagne qui ouvre le port de Valence — à 760 milles nautiques, soit plus de trois jours de navigation. Macron dénonce le « cynisme » et l'« irresponsabilité » de Rome, mais la France n'ouvre pas de port.",
      "critique": "Cas d'école du « en même temps » : leçons d'humanité au monde d'un côté, inaction concrète de l'autre. Le même scénario se rejouera en septembre 2018, quand la France refusera l'accostage de l'Aquarius à Marseille en suggérant Malte.",
      "sources": [
       {
@@ -701,7 +849,51 @@ window.DONNEES = {
      ]
     },
     {
-     "n": 10,
+     "n": 11,
+     "titre": "« Un pognon de dingue »",
+     "date_libelle": "12/06/2018",
+     "debut": "2018-06-12",
+     "fin": "2018-06-12",
+     "precision": "jour",
+     "transverse": false,
+     "mois": 6,
+     "factuel": "Le 12 juin au soir, la conseillère presse de Macron diffuse sur Twitter une vidéo tournée à l'Élysée, où le président, préparant son discours du lendemain au congrès de la Mutualité française, confie à ses conseillers : « On met un pognon de dingue dans des minima sociaux, et les gens sont quand même pauvres. On n'en sort pas. Les gens qui naissent pauvres restent pauvres. Ceux qui tombent pauvres, ils restent pauvres. » La séquence, mise en scène par l'Élysée lui-même, annonce la refonte des aides sociales.",
+     "critique": "Reçue comme une stigmatisation des allocataires, laissant entendre que les minima sociaux seraient de l'argent gaspillé. Avec « les gens qui ne sont rien » et les « fainéants », c'est l'une des phrases les plus reprises par les Gilets jaunes quelques mois plus tard — d'autant plus corrosive qu'elle émane d'une communication volontaire et non d'une captation.",
+     "sources": [
+      {
+       "nom": "franceinfo — « Emmanuel Macron : \"On met un pognon de dingue dans des minima sociaux\" » (12/06/2018)",
+       "lien": "https://www.franceinfo.fr/politique/emmanuel-macron/emmanuel-macron-on-met-un-pognon-de-dingue-dans-des-minima-sociaux_2799473.html"
+      },
+      {
+       "nom": "Wikipédia — « Un pognon de dingue » (article dédié, sourcé)",
+       "lien": "https://fr.wikipedia.org/wiki/Un_pognon_de_dingue"
+      }
+     ]
+    },
+    {
+     "n": 12,
+     "titre": "Réforme ferroviaire : fin du statut de cheminot malgré trois mois de grève",
+     "date_libelle": "03/04 → 27/06/2018",
+     "debut": "2018-06-27",
+     "fin": "2018-06-27",
+     "precision": "jour",
+     "transverse": false,
+     "mois": 6,
+     "factuel": "La loi n° 2018-515 du 27 juin 2018 « pour un nouveau pacte ferroviaire » ouvre le transport de voyageurs à la concurrence, transforme la SNCF en sociétés anonymes et met fin au recrutement au statut de cheminot (plus aucune embauche au statut après le 31 décembre 2019), l'État reprenant en contrepartie une partie de la dette de l'opérateur. L'intersyndicale y oppose du 3 avril au 28 juin une « grève perlée » inédite de 36 journées, au rythme de deux jours sur cinq — 33,9 % de grévistes le 3 avril selon la direction, participation qui s'érode ensuite sous les 20 %. La loi est promulguée le 27 juin, avant même la dernière journée du calendrier de grève.",
+     "critique": "L'un des plus longs conflits sociaux du quinquennat, perdu par les syndicats : la méthode (menace initiale de passer par ordonnances pour aller vite) et l'issue nourrissent le sentiment d'un passage en force contre un symbole du service public.",
+     "sources": [
+      {
+       "nom": "Légifrance — loi n° 2018-515 du 27 juin 2018 pour un nouveau pacte ferroviaire",
+       "lien": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037111503/"
+      },
+      {
+       "nom": "franceinfo — « SNCF : découvrez quelles sont les 36 journées où les cheminots seront en grève »",
+       "lien": "https://www.franceinfo.fr/economie/transports/sncf/sncf-decouvrez-quelles-sont-les-36-journees-ou-les-cheminots-seront-en-greve_2658804.html"
+      }
+     ]
+    },
+    {
+     "n": 13,
      "titre": "Coupe du monde : la récupération et le passage éclair des Bleus",
      "date_libelle": "16/07/2018",
      "debut": "2018-07-16",
@@ -710,7 +902,7 @@ window.DONNEES = {
      "transverse": false,
      "mois": 7,
      "factuel": "Au lendemain du titre mondial, avec deux heures de retard, les 23 Bleus ne saluent leurs supporters qu'une dizaine de minutes depuis leur bus à impériale sur des Champs-Élysées bondés (≈300 000 personnes), avant de filer à la réception de l'Élysée. De nombreux supporters expriment leur déception (« j'ai attendu trois heures pour ne rien voir »). Une polémique naît sur l'origine de ce passage éclair : l'Élysée dément formellement avoir demandé d'accélérer la descente, parlant d'une « vaine polémique ».",
-     "critique": "Symbole, pour ses détracteurs, de la récupération politique d'un événement sportif et d'une communication présidentielle envahissante. La présence de Benalla à bord du bus des Bleus donne de la crédibilité à une étroite communicatiopn avec l'Elysée.",
+     "critique": "Symbole, pour ses détracteurs, de la récupération politique d'un événement sportif et d'une communication présidentielle envahissante. La présence de Benalla à bord du bus des Bleus donne de la crédibilité à une étroite communication avec l'Elysée.",
      "sources": [
       {
        "nom": "franceinfo",
@@ -723,7 +915,7 @@ window.DONNEES = {
      ]
     },
     {
-     "n": 11,
+     "n": 14,
      "titre": "Affaire Benalla (1) : les révélations",
      "date_libelle": "18/07/2018",
      "debut": "2018-07-18",
@@ -731,7 +923,7 @@ window.DONNEES = {
      "precision": "jour",
      "transverse": false,
      "mois": 7,
-     "factuel": "Le Monde révèle qu'Alexandre Benalla, chargé de mission à l'Élysée, a molesté des manifestants place de la Contrescarpe le 1er mai 2018, coiffé d'un casque de police et portant un brassard « police », en simple observateur. Le parquet ouvre le 19 juillet une enquête pour violences, usurpation de fonctions et de signes réservés à l'autorité publique.",
+     "factuel": "Le Monde révèle qu'Alexandre Benalla, chargé de mission à l'Élysée, a molesté des manifestants place de la Contrescarpe le 1er mai 2018, coiffé d'un casque de police et portant un brassard « police ». Le parquet ouvre le 19 juillet une enquête pour violences, usurpation de fonctions et de signes réservés à l'autorité publique.",
      "critique": "Point de départ d'un des principaux scandales d'État du quinquennat : un proche du président se comportant en policier, couvert par l'Élysée pendant deux mois et demi.",
      "sources": [
       {
@@ -741,7 +933,7 @@ window.DONNEES = {
      ]
     },
     {
-     "n": 12,
+     "n": 15,
      "titre": "Affaire Benalla (2) : « Qu'ils viennent me chercher »",
      "date_libelle": "24/07/2018",
      "debut": "2018-07-24",
@@ -759,7 +951,7 @@ window.DONNEES = {
      ]
     },
     {
-     "n": 13,
+     "n": 16,
      "titre": "Affaire Benalla (3) : coffre-fort, scellés et passeports diplomatiques",
      "date_libelle": "août–déc. 2018",
      "debut": "2018-08-01",
@@ -767,17 +959,21 @@ window.DONNEES = {
      "precision": "mois",
      "transverse": false,
      "mois": 8,
-     "factuel": "L'affaire rebondit tout l'été et l'automne : coffre-fort de Benalla évoqué, scellés de son appartement « remplacés » plutôt que brisés (Le Point). Fin décembre, Mediapart révèle qu'il a continué d'utiliser après son licenciement un passeport diplomatique délivré le 24 mai 2018 — soit trois semaines après les faits de la Contrescarpe — pour de nombreux déplacements d'affaires en Afrique et en Israël, dont un séjour au Tchad début décembre. Le Quai d'Orsay indique en avoir réclamé la restitution dès fin juillet, tout usage ultérieur ayant donc été fait « contrairement aux engagements pris par l'intéressé ».",
+     "factuel": "L'affaire rebondit tout l'été et l'automne. Un coffre-fort que Benalla utilisait à son domicile pour stocker ses armes n'est plus dans son appartement lors de la perquisition de fin juillet 2018 ; entendu par les enquêteurs, il déclare qu'il « a dû être emmené dans un lieu sûr par une personne, mais ce n'est pas moi qui me suis occupé de cela ». Le coffre ne sera jamais retrouvé, et le parquet de Paris ouvrira une enquête — confiée en novembre 2019 à un juge d'instruction — pour « soustraction de documents ou objets […] en vue de faire obstacle à la manifestation de la vérité ». S'y ajoutent les scellés de son appartement « remplacés » plutôt que brisés (Le Point). Fin décembre, Mediapart révèle qu'il a continué d'utiliser après son licenciement un passeport diplomatique délivré le 24 mai 2018 — soit trois semaines après les faits de la Contrescarpe — pour de nombreux déplacements d'affaires en Afrique et en Israël, dont un séjour au Tchad début décembre. Le Quai d'Orsay indique en avoir réclamé la restitution dès fin juillet, tout usage ultérieur ayant donc été fait « contrairement aux engagements pris par l'intéressé ».",
      "critique": "Série de dysfonctionnements et de zones d'ombre nourrissant le soupçon d'un traitement de faveur ; deux commissions d'enquête parlementaires seront constituées.",
      "sources": [
       {
-       "nom": "Public Sénat",
+       "nom": "Public Sénat — « Coffre-fort de Benalla : l'enquête confiée à un juge d'instruction » (14/11/2019)",
+       "lien": "https://www.publicsenat.fr/actualites/politique/coffre-fort-de-benalla-l-enquete-confiee-a-un-juge-d-instruction-147088"
+      },
+      {
+       "nom": "Public Sénat — « Benalla a usé largement de ses passeports diplomatiques après l'Élysée »",
        "lien": "https://www.publicsenat.fr/actualites/non-classe/benalla-a-use-largement-de-ses-passeports-diplomatiques-apres-l-elysee-137008"
       }
      ]
     },
     {
-     "n": 14,
+     "n": 17,
      "titre": "Démission-surprise de Nicolas Hulot",
      "date_libelle": "28/08/2018",
      "debut": "2018-08-28",
@@ -795,7 +991,7 @@ window.DONNEES = {
      ]
     },
     {
-     "n": 15,
+     "n": 18,
      "titre": "« Le Gaulois réfractaire au changement »",
      "date_libelle": "29/08/2018",
      "debut": "2018-08-29",
@@ -813,7 +1009,37 @@ window.DONNEES = {
      ]
     },
     {
-     "n": 16,
+     "n": 19,
+     "titre": "Loi asile-immigration : la rétention doublée à 90 jours",
+     "date_libelle": "10/09/2018",
+     "debut": "2018-09-10",
+     "fin": "2018-09-10",
+     "precision": "jour",
+     "transverse": false,
+     "mois": 9,
+     "factuel": "La loi n° 2018-778 « pour une immigration maîtrisée, un droit d'asile effectif et une intégration réussie » (dite loi Collomb) est promulguée le 10 septembre. Elle double la durée maximale de rétention administrative (de 45 à 90 jours), porte la retenue pour vérification du droit au séjour de 16 à 24 heures, réduit de 120 à 90 jours le délai pour déposer une demande d'asile après l'entrée en France et étend le recours aux vidéo-audiences ; la rétention des mineurs accompagnant leurs parents n'est pas interdite.",
+     "critique": "Aboutissement législatif du tournant engagé fin 2017 : les associations (GISTI, Cimade) dénoncent une loi de fermeture, et le texte est contesté jusque dans la majorité. Trois semaines plus tard, Gérard Collomb présente sa démission.",
+     "sources": [
+      {
+       "nom": "Légifrance — loi n° 2018-778 du 10 septembre 2018",
+       "lien": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037381808"
+      },
+      {
+       "nom": "vie-publique.fr — dossier de la loi du 10 septembre 2018",
+       "lien": "https://www.vie-publique.fr/loi/20792-loi-10-septemmbre-2018-immigration-droit-dasile-et-integration"
+      },
+      {
+       "nom": "France 24 — « Emmanuel Macron a refusé la démission de Gérard Collomb » (01/10/2018)",
+       "lien": "https://www.france24.com/fr/20181001-france-politique-emmanuel-macron-refus-demission-ministre-interieur-gerard-collomb"
+      },
+      {
+       "nom": "France Bleu — « Gérard Collomb a quitté le ministère de l'Intérieur » (03/10/2018)",
+       "lien": "https://www.francebleu.fr/infos/politique/gerard-collomb-va-quitter-le-gouvernement-1538497683"
+      }
+     ]
+    },
+    {
+     "n": 20,
      "titre": "« Je traverse la rue, je vous en trouve »",
      "date_libelle": "15/09/2018",
      "debut": "2018-09-15",
@@ -831,7 +1057,7 @@ window.DONNEES = {
      ]
     },
     {
-     "n": 17,
+     "n": 21,
      "titre": "Gilets jaunes (1) : le déclenchement",
      "date_libelle": "17/11/2018",
      "debut": "2018-11-17",
@@ -849,7 +1075,29 @@ window.DONNEES = {
      ]
     },
     {
-     "n": 18,
+     "n": 22,
+     "titre": "Loi ELAN : les logements neufs accessibles ramenés de 100 % à 20 %",
+     "date_libelle": "23/11/2018",
+     "debut": "2018-11-23",
+     "fin": "2018-11-23",
+     "precision": "jour",
+     "transverse": false,
+     "mois": 11,
+     "factuel": "La loi ELAN (évolution du logement, de l'aménagement et du numérique) est promulguée le 23 novembre. Elle remplace l'obligation d'accessibilité de la totalité des logements neufs aux personnes handicapées par un quota de 20 % de logements « immédiatement accessibles », le reste devenant « évolutif », c'est-à-dire supposé adaptable par de « simples travaux ». La mesure a été dénoncée par les associations (APF France handicap, ANPIHM, Handi-social), le CNCPH — pour qui ces quotas « auraient pour effet d'assigner une partie de la population à des lieux non choisis » —, le Défenseur des droits, le Conseil de l'Europe et l'ONU.",
+     "critique": "Recul de 43 ans sur l'accessibilité universelle, obtenu selon les associations sous la pression des lobbys de l'immobilier ; il prolonge le fil des reculs sur le handicap, pourtant « priorité du quinquennat ».",
+     "sources": [
+      {
+       "nom": "Légifrance — loi n° 2018-1021 du 23 novembre 2018 (ELAN)",
+       "lien": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037639478"
+      },
+      {
+       "nom": "Handicap.fr — « Loi ELAN : on va vers 20 % de logements accessibles » (20/09/2018)",
+       "lien": "https://informations.handicap.fr/a-loi-elan-marche-arriere-11129.php"
+      }
+     ]
+    },
+    {
+     "n": 23,
      "titre": "Gilets jaunes (2) : la répression documentée",
      "date_libelle": "décembre 2018",
      "debut": "2018-12-01",
@@ -871,7 +1119,7 @@ window.DONNEES = {
      ]
     },
     {
-     "n": 19,
+     "n": 24,
      "titre": "Gilets jaunes (3) : l'allocution et les concessions",
      "date_libelle": "10/12/2018",
      "debut": "2018-12-10",
@@ -889,7 +1137,7 @@ window.DONNEES = {
      ]
     },
     {
-     "n": 20,
+     "n": 25,
      "titre": "La sous-indexation des pensions et des prestations sociales",
      "date_libelle": "22/12/2018",
      "debut": "2018-12-22",
@@ -898,7 +1146,7 @@ window.DONNEES = {
      "transverse": false,
      "mois": 12,
      "factuel": "L'article 68 de la loi de financement de la sécurité sociale pour 2019 (loi n° 2018-1203 du 22 décembre 2018) limite la revalorisation de l'ensemble des pensions de retraite et de plusieurs prestations sociales à 0,3 % pour 2019, alors que l'inflation constatée en 2018 s'élève à 1,8 % — soit une perte de pouvoir d'achat pour tous les retraités.",
-     "critique": "Technique d'économie budgétaire silencieuse : aucune prestation n'est nominalement baissée, mais la charge de l'inflation est transférée aux retraités et aux allocataires. Le mesure devait être appliquée en 2020 aussi, mais cette extension a été retoquée par le Conseil constitutionnel. Une nouvelle loi, un an plus tard, instaurera également une limitation pour 2020.",
+     "critique": "Technique d'économie budgétaire silencieuse : aucune prestation n'est nominalement baissée, mais la charge de l'inflation est transférée aux retraités et aux allocataires. Une nouvelle loi, un an plus tard, instaurera également une limitation pour 2020.",
      "sources": [
       {
        "nom": "Conseil constitutionnel — décision n° 2018-776 DC du 21 décembre 2018",
@@ -919,19 +1167,19 @@ window.DONNEES = {
   {
    "annee": 2019,
    "note": "Le thème des violences policières est dominant cette année-là.",
-   "total": 21,
+   "total": 25,
    "densite": [
     3,
     2,
     3,
     0,
-    2,
+    3,
     1,
-    2,
-    0,
+    3,
     0,
     1,
-    4,
+    1,
+    5,
     3
    ],
    "fiches": [
@@ -945,7 +1193,7 @@ window.DONNEES = {
      "transverse": false,
      "mois": 1,
      "factuel": "Au 1er janvier 2019, le crédit d'impôt pour la compétitivité et l'emploi cesse d'être un crédit d'impôt et devient un allègement pérenne de cotisations patronales. L'exercice 2019 cumule le versement du crédit d'impôt dû au titre de 2018 et le nouvel allègement : le coût pour les finances publiques atteint environ 40 milliards d'euros sur cette seule année.",
-     "critique": "Les évaluations commandées par France Stratégie à l'Institut des politiques publiques et à l'OFCE ne trouvent aucun effet significatif de cette transformation sur l'emploi ni sur les performances des entreprises en 2019, ni au niveau microéconomique ni au niveau sectoriel. Une dépense publique massive et désormais permanente, sans effet démontré — et pourtant jamais rediscutée lorsque viendra le temps de l'austérité.",
+     "critique": "Les évaluations commandées par France Stratégie à l'Institut des politiques publiques et à l'OFCE ne trouvent aucun effet significatif de cette transformation sur l'emploi ni sur les performances des entreprises en 2019. Une dépense publique massive et désormais permanente, sans effet démontré — et pourtant jamais rediscutée lorsque viendra le temps de l'austérité.",
      "sources": [
       {
        "nom": "France Stratégie (via Rexecode)",
@@ -963,7 +1211,7 @@ window.DONNEES = {
      "transverse": false,
      "mois": 1,
      "factuel": "En réponse aux Gilets jaunes, Macron lance le Grand Débat national (15 janvier – 15 mars), multipliant les marathons de plusieurs heures où il occupe l'essentiel de la parole. Les quelque 19 000 cahiers de doléances remplis en mairie, dont la mise en ligne avait été promise, ne seront jamais publiés.",
-     "critique": "Perçu comme une vaste opération de communication où le président soliloque, et où la parole citoyenne recueillie est finalement enterrée. Nuance : les cahiers n'ont pas été « confisqués » au sens strict, ils sont archivés et consultables ; c'est la promesse de publication qui n'a pas été tenue, et l'accès reste assez lourd pour équivaloir en pratique à une mise sous le boisseau.",
+     "critique": "Perçu comme une vaste opération de communication où le président soliloque, et où la parole citoyenne recueillie est finalement enterrée.",
      "sources": [
       {
        "nom": "franceinfo",
@@ -1016,7 +1264,7 @@ window.DONNEES = {
      "precision": "mois",
      "transverse": false,
      "mois": 2,
-     "factuel": "Après avoir qualifié en 2017 de « crime contre l'humanité » l'esclavage des migrants en Libye, la France continue de soutenir matériellement les garde-côtes libyens qui interceptent et renvoient les migrants vers des centres de détention aux conditions dénoncées par les organisations humnitaires.",
+     "factuel": "Après avoir qualifié en 2017 de « crime contre l'humanité » l'esclavage des migrants en Libye, la France continue de soutenir matériellement les garde-côtes libyens qui interceptent et renvoient les migrants vers des centres de détention aux conditions dénoncées par les organisations humanitaires.",
      "critique": "Illustration du « en même temps » migratoire : indignation morale affichée, complicité pratique dans les refoulements.",
      "sources": [
       {
@@ -1063,6 +1311,28 @@ window.DONNEES = {
     },
     {
      "n": 8,
+     "titre": "La grève des urgences hospitalières",
+     "date_libelle": "mi-mars → 09/09/2019",
+     "debut": "2019-09-09",
+     "fin": "2019-09-09",
+     "precision": "jour",
+     "transverse": false,
+     "mois": 9,
+     "factuel": "Parti mi-mars des urgences parisiennes (Saint-Antoine), un mouvement de grève inédit porté par le collectif paramédical Inter-Urgences s'étend à 249 services selon le collectif (195 selon le ministère), les soignants continuant d'assurer les soins. Après des premières réponses jugées dérisoires (prime de 100 € net, 15 M€ de renforts saisonniers), Agnès Buzyn annonce le 9 septembre un « pacte de refondation des urgences » de 754 M€ sur 2019-2022 — sans les postes ni les lits réclamés par les grévistes.",
+     "critique": "L'hôpital public entre en crise ouverte avant la pandémie : chaînon manquant entre « il n'y a pas d'argent magique » (2018) et le Covid, qui éclairera rétrospectivement le refus d'ouvrir des lits.",
+     "sources": [
+      {
+       "nom": "France 24 — « Après six mois de grève aux urgences, Agnès Buzyn dévoile son plan d'action » (09/09/2019)",
+       "lien": "https://www.france24.com/fr/20190909-france-sante-agnes-buzyn-greve-urgence-plan-manifestations"
+      },
+      {
+       "nom": "info.gouv.fr — « Pacte de refondation des urgences : 754 millions »",
+       "lien": "https://www.info.gouv.fr/actualite/pacte-de-refondation-des-urgences-754-millions-et-des-mesures-perennes-pour-soutenir-les"
+      }
+     ]
+    },
+    {
+     "n": 9,
      "titre": "Violences policières (4) : Geneviève Legay et la « forme de sagesse »",
      "date_libelle": "23/03/2019",
      "debut": "2019-03-23",
@@ -1080,7 +1350,51 @@ window.DONNEES = {
      ]
     },
     {
-     "n": 9,
+     "n": 10,
+     "titre": "Notre-Dame : « rebâtie en cinq ans » et la polémique des dons",
+     "date_libelle": "15/04 → 29/07/2019",
+     "debut": "2019-07-29",
+     "fin": "2019-07-29",
+     "precision": "jour",
+     "transverse": false,
+     "mois": 7,
+     "factuel": "Au lendemain de l'incendie du 15 avril, Macron promet une cathédrale « rebâtie en cinq ans », « plus belle encore ». En deux jours, plus de 850 M€ de dons sont promis, dont des centaines de millions par les familles Pinault, Arnault et Bettencourt ; la défiscalisation de ces dons (60 à 66 %, portée à 75 % jusqu'à 1 000 € par la loi du 29 juillet 2019) fait polémique — au point que la famille Pinault renonce à son avantage fiscal.",
+     "critique": "Contraste massivement relevé à gauche et chez les Gilets jaunes : des centaines de millions surgissent en 48 heures pour la pierre, quand « il n'y a pas d'argent magique » pour l'hôpital, les APL ou les urgences en grève).",
+     "sources": [
+      {
+       "nom": "France Bleu — « Reconstruction de Notre-Dame : quelles sont les réductions fiscales en cas de don ? » (17/04/2019)",
+       "lien": "https://www.francebleu.fr/infos/faits-divers-justice/incendie-de-notre-dame-quelles-sont-les-reductions-fiscales-en-cas-de-don-1555508132"
+      },
+      {
+       "nom": "Wikipédia — « Incendie de Notre-Dame de Paris » (article dédié, sourcé)",
+       "lien": "https://fr.wikipedia.org/wiki/Incendie_de_Notre-Dame_de_Paris"
+      }
+     ]
+    },
+    {
+     "n": 11,
+     "titre": "Castaner et l'« attaque » de la Pitié-Salpêtrière",
+     "date_libelle": "01-03/05/2019",
+     "debut": "2019-05-01",
+     "fin": "2019-05-03",
+     "precision": "periode",
+     "transverse": false,
+     "mois": 5,
+     "factuel": "Le 1er mai, le ministre de l'Intérieur Christophe Castaner dénonce l'« attaque » d'un hôpital et l'« agression » de son personnel soignant à la Pitié-Salpêtrière. Vidéos et témoignages établissent que des manifestants fuyant les gaz lacrymogènes se sont réfugiés dans l'enceinte ; les 32 gardes à vue sont levées dès le lendemain. L'opposition réclame la démission de Castaner ou son audition parlementaire.",
+     "critique": "Fausse information ministérielle à l'appui du récit officiel du maintien de l'ordre dans la droite ligne du déni présidentiel des violences policières.",
+     "sources": [
+      {
+       "nom": "France 24 — « \"Attaque\" à la Pitié-Salpêtrière, le mea culpa de Christophe Castaner » (03/05/2019)",
+       "lien": "https://www.france24.com/fr/20190503-intrusion-pitie-salpetriere-castaner-attaque-polemique"
+      },
+      {
+       "nom": "Arrêt sur images — « La Pitié-Salpêtrière \"attaquée\" : vie et mort d'une fake news signée Castaner »",
+       "lien": "https://www.arretsurimages.net/articles/la-pitie-salpetriere-attaquee-vie-et-mort-dune-fake-news-signee-castaner"
+      }
+     ]
+    },
+    {
+     "n": 12,
      "titre": "Violences policières (bilan) : le décompte « Allo Place Beauvau »",
      "date_libelle": "17/05/2019",
      "debut": "2019-05-17",
@@ -1110,7 +1424,7 @@ window.DONNEES = {
      ]
     },
     {
-     "n": 10,
+     "n": 13,
      "titre": "Européennes : le RN devance la liste macroniste",
      "date_libelle": "26/05/2019",
      "debut": "2019-05-26",
@@ -1128,7 +1442,7 @@ window.DONNEES = {
      ]
     },
     {
-     "n": 11,
+     "n": 14,
      "titre": "Violences policières (5) : la mort de Steve Maia Caniço",
      "date_libelle": "21-22/06/2019",
      "debut": "2019-06-21",
@@ -1146,7 +1460,7 @@ window.DONNEES = {
      ]
     },
     {
-     "n": 12,
+     "n": 15,
      "titre": "L'affaire de Rugy : les dîners aux homards",
      "date_libelle": "10-16/07/2019",
      "debut": "2019-07-10",
@@ -1164,7 +1478,7 @@ window.DONNEES = {
      ]
     },
     {
-     "n": 13,
+     "n": 16,
      "titre": "Fin du train des primeurs Perpignan-Rungis",
      "date_libelle": "juillet 2019",
      "debut": "2019-07-01",
@@ -1182,7 +1496,7 @@ window.DONNEES = {
      ]
     },
     {
-     "n": 14,
+     "n": 17,
      "titre": "Interview à Valeurs actuelles",
      "date_libelle": "30/10/2019",
      "debut": "2019-10-30",
@@ -1200,7 +1514,7 @@ window.DONNEES = {
      ]
     },
     {
-     "n": 15,
+     "n": 18,
      "titre": "Durcissement de l'assurance-chômage",
      "date_libelle": "01/11/2019",
      "debut": "2019-11-01",
@@ -1226,7 +1540,33 @@ window.DONNEES = {
      ]
     },
     {
-     "n": 16,
+     "n": 19,
+     "titre": "Plan immigration : délai de carence santé et « quotas »",
+     "date_libelle": "06/11/2019",
+     "debut": "2019-11-06",
+     "fin": "2019-11-06",
+     "precision": "jour",
+     "transverse": false,
+     "mois": 11,
+     "factuel": "À l'issue d'un comité interministériel sur l'immigration, Édouard Philippe présente « 20 décisions » : instauration d'un délai de carence de trois mois avant l'accès des demandeurs d'asile à la protection maladie, durcissement de l'accès à l'aide médicale d'État, et « objectifs quantitatifs » — assumés comme des « quotas » — pour l'immigration professionnelle. La Cimade dénonce des mesures fondées sur des « supposés fraudes, abus et détournements qu'aucun élément objectif ne vient étayer » et une « vision utilitariste » des personnes migrantes.",
+     "critique": "Prolongement du fil 2017-2018 (circulaire Collomb, loi asile) : la restriction de l'accès aux soins, contreproductive en santé publique selon les acteurs médicaux, cible les plus vulnérables au moment où le président courtise l'électorat de droite sur l'immigration.",
+     "sources": [
+      {
+       "nom": "info.gouv.fr — dossier de presse du comité interministériel du 6 novembre 2019",
+       "lien": "https://www.info.gouv.fr/dossier-de-presse/11224-comite-interministeriel-sur-l-immigration-et-l-integration"
+      },
+      {
+       "nom": "La Cimade — « Décryptage des 20 mesures proposées par le gouvernement le 6 novembre 2019 »",
+       "lien": "https://www.lacimade.org/publication/decryptage-des-20-mesures-proposees-par-le-gouvernement-le-6-novembre-2019/"
+      },
+      {
+       "nom": "Europe 1 — « Philippe confirme l'instauration \"d'objectifs quantitatifs ou de quotas\" » (06/11/2019)",
+       "lien": "https://www.europe1.fr/politique/immigration-edouard-philippe-confirme-linstauration-dobjectifs-qualitatifs-ou-de-quotas-3929658"
+      }
+     ]
+    },
+    {
+     "n": 20,
      "titre": "Absorption des observatoires indépendants",
      "date_libelle": "12/11/2019",
      "debut": "2019-11-12",
@@ -1244,7 +1584,7 @@ window.DONNEES = {
      ]
     },
     {
-     "n": 17,
+     "n": 21,
      "titre": "Privatisation de la Française des Jeux",
      "date_libelle": "21/11/2019",
      "debut": "2019-11-21",
@@ -1253,7 +1593,7 @@ window.DONNEES = {
      "transverse": false,
      "mois": 11,
      "factuel": "Autorisé par la loi PACTE du 22 mai 2019, l'État introduit en Bourse la Française des Jeux : il cède 52 % du capital, ramenant sa participation de 72 % à environ 20 %. L'opération, ouverte le 7 novembre et cotée le 21 novembre, attire plus de 500 000 souscripteurs particuliers et rapporte près de 2 milliards d'euros.",
-     "critique": "Bradage d'un monopole public rentable, dénoncé comme une privatisation d'un bien commun au bénéfice d'actionnaires privés.",
+     "critique": "Un monopole public rentable bradé, qui est dénoncé comme une privatisation d'un bien commun au bénéfice d'actionnaires privés.",
      "sources": [
       {
        "nom": "economie.gouv.fr",
@@ -1262,7 +1602,7 @@ window.DONNEES = {
      ]
     },
     {
-     "n": 18,
+     "n": 22,
      "titre": "Violences policières (6) : l'État recommande son arsenal de LBD40",
      "date_libelle": "27/11/2019",
      "debut": "2019-11-27",
@@ -1270,7 +1610,7 @@ window.DONNEES = {
      "precision": "jour",
      "transverse": false,
      "mois": 11,
-     "factuel": "Deux marchés publics publiés au BOAMP le 27 novembre : Alsetex fournira 1 280 lanceurs LBD40 mono-coup pour 1,64 M€ ; Rivolier fournira des lanceurs multi-coups — 180 six-coups pour 727 000 €, plus 270 quatre-coups. Soit de l'ordre de 1 700 armes au total.*",
+     "factuel": "Deux marchés publics publiés au BOAMP le 27 novembre : Alsetex fournira 1 280 lanceurs LBD40 mono-coup pour 1,64 M€ ; Rivolier fournira des lanceurs multi-coups — 180 six-coups pour 727 000 €, plus 270 quatre-coups. Soit de l'ordre de 1 700 armes au total.",
      "critique": "Réarmement en LBD en pleine polémique sur les mutilations, signe d'un maintien assumé de la doctrine contestée.",
      "sources": [
       {
@@ -1280,7 +1620,7 @@ window.DONNEES = {
      ]
     },
     {
-     "n": 19,
+     "n": 23,
      "titre": "Retraites (1) : la grève interprofessionnelle du 5 décembre",
      "date_libelle": "05/12/2019",
      "debut": "2019-12-05",
@@ -1298,7 +1638,7 @@ window.DONNEES = {
      ]
     },
     {
-     "n": 20,
+     "n": 24,
      "titre": "Retraites (2) : système à points et « âge pivot » à 64 ans",
      "date_libelle": "11/12/2019",
      "debut": "2019-12-11",
@@ -1316,7 +1656,7 @@ window.DONNEES = {
      ]
     },
     {
-     "n": 21,
+     "n": 25,
      "titre": "Retraites (3) : la démission de Delevoye pour conflit d'intérêts",
      "date_libelle": "16/12/2019",
      "debut": "2019-12-16",

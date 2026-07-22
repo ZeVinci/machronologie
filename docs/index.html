@@ -42,7 +42,10 @@ body{
 }
 .chapeau h1 .encre{color:var(--encre)}
 .chapeau h1 .estompe{color:var(--pale)}
-.chapeau .chapo{margin:0; font-size:16px; color:var(--gris); max-width:52ch}
+/* Largeur du chapô. 52ch était trop étroit face au corps des fiches et
+   creusait un vide à droite de l'en-tête. Ajuster ici au besoin : plus la
+   valeur est grande, plus le chapô s'aligne sur la largeur des fiches. */
+.chapeau .chapo{margin:0; font-size:16px; color:var(--gris); max-width:68ch}
 .chapeau .chapo p{margin:0 0 10px}
 .chapeau .chapo p:last-child{margin:0}
 .entrees{display:flex; gap:18px; margin-top:22px}
